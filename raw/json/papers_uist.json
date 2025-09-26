@@ -27849,5 +27849,4827 @@
         "title": "IRIS: Wireless Ring for Vision-based Smart Home Interaction"
       }
     ]
+  },
+  {
+    "proceedings": "uist25",
+    "papers": [
+      {
+        "author": [
+          "Francois Guimbretiere",
+          "Victor Guimbretiere",
+          "Amritansh Kwatra",
+          "Scott Hudson"
+        ],
+        "institution": [
+          "Cornell University",
+          "Ithaca High School",
+          "Cornell Tech",
+          "Carnegie Mellon University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Using an Array of Needles to Create Solid Knitted Shapes"
+      },
+      {
+        "author": [
+          "Jacqui Fashimpaur",
+          "Tovi Grossman",
+          "Ben Lafreniere",
+          "Naveen Sendhilnathan",
+          "Kashyap Todi",
+          "Tianyi Wang",
+          "Ting Zhang",
+          "Tanya Jonker"
+        ],
+        "institution": [
+          "Meta",
+          "University of Toronto",
+          "Meta",
+          "Meta",
+          "Meta",
+          "Meta",
+          "Meta",
+          "Meta"
+        ],
+        "country": [
+          "United States",
+          "Canada"
+        ],
+        "url": "",
+        "title": "Squiggle: Multimodal Lasso Selection in the Real World"
+      },
+      {
+        "author": [
+          "Antonin Cheymol",
+          "Pedro Lopes"
+        ],
+        "institution": [
+          "Inria, Univ Rennes, CNRS, IRISA",
+          "University of Chicago"
+        ],
+        "country": [
+          "France",
+          "United States"
+        ],
+        "url": "",
+        "title": "VR Side-Effects: Memory & Proprioceptive Discrepancies After Leaving Virtual Reality "
+      },
+      {
+        "author": [
+          "Ruolin Wang",
+          "Xingyu Liu",
+          "Biao Wang",
+          "Wayne Zhang",
+          "Ziqian Liao",
+          "Ziwen Li",
+          "Amy Pavel",
+          "Xiang 'Anthony' Chen"
+        ],
+        "institution": [
+          "Georgia Institute of Technology",
+          "UCLA",
+          "Cornell University",
+          "UCLA",
+          "Harvard University",
+          "UCLA",
+          "University of Texas, Austin",
+          "UCLA"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "CoSight: Exploring Viewer Contributions to Online Video Accessibility Through Descriptive Commenting"
+      },
+      {
+        "author": [
+          "Yunqiang Pei",
+          "RenMing Huang",
+          "Mingfeng Zha",
+          "Guoqing Wang",
+          "Peng Wang",
+          "Qiao Kang",
+          "Yang Yang",
+          "Heng Tao Shen"
+        ],
+        "institution": [
+          "University of Electronic Science and Technology of China",
+          "University of Electronic Science and Technology of China",
+          "University of Electronic Science and Technology of China",
+          "University of Electronic Science and Technology of China",
+          "University of Electronic Science and Technology of China",
+          "non-affiliated",
+          "University of Electronic Science and Technology of China",
+          "University of Electronic Science and Technology of China"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "AttentionAR: AR Adaptation and Warning for Real-World Safety via Attention Modeling and MLLM Reasoning"
+      },
+      {
+        "author": [
+          "Chang Chen",
+          "Sicheng Song",
+          "Shuchang Xu",
+          "Zhicheng Li",
+          "Huamin Qu",
+          "Yanna Lin"
+        ],
+        "institution": [
+          "Hong Kong University of Science and Technology",
+          "Hong Kong University of Science and Technology",
+          "Hong Kong University of Science and Technology",
+          "Hong Kong University of Science and Technology",
+          "Hong Kong University of Science and Technology",
+          "Hong Kong University of Science and Technology"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "RhythmTA: A Visual-Aided Interactive System for ESL Rhythm Training via Dubbing Practice"
+      },
+      {
+        "author": [
+          "Rachel Lin",
+          "Bhavya Chopra",
+          "Wenjing Lin",
+          "Shreya Shankar",
+          "Madelon Hulsebos",
+          "Aditya Parameswaran"
+        ],
+        "institution": [
+          "University of California, Berkeley",
+          "University of California, Berkeley",
+          "University of California, Berkeley",
+          "University of California, Berkeley",
+          "UC Berkeley",
+          "UC Berkeley"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Rethinking Dataset Discovery with DataScout"
+      },
+      {
+        "author": [
+          "Deying Pan",
+          "Fanqi Zhou",
+          "Yitao Fan",
+          "Tianshu Dong",
+          "Fanke Qi",
+          "Yongbo Ni",
+          "Ye Tao",
+          "Lingyun Sun",
+          "Guanyun Wang"
+        ],
+        "institution": [
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Hangzhou City University",
+          "Zhejiang University",
+          "Zhejiang University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "Touch-n-Curl: Designing and Constructing Skeletal Form through 3D Printing Flattened Zipper Assembly"
+      },
+      {
+        "author": [
+          "Xuetong WANG",
+          "Ching Christie PANG",
+          "Pan Hui"
+        ],
+        "institution": [
+          "Hong Kong University of Science and Technology",
+          "Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "Talking Spell: A Wearable System Enabling Real-Time Anthropomorphic Voice Interaction with Everyday Objects"
+      },
+      {
+        "author": [
+          "Karim Benharrak",
+          "Puyuan Peng",
+          "Amy Pavel"
+        ],
+        "institution": [
+          "University of Texas, Austin",
+          "University of Texas, Austin",
+          "University of Texas, Austin"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "TalkLess: Blending Extractive and Abstractive Speech Summarization for Editing Speech to Preserve Content and Style"
+      },
+      {
+        "author": [
+          "Samantha Speer",
+          "Nickolina Yankova",
+          "Joey Huang",
+          "Carolyn Rosé",
+          "Kylie Peppler",
+          "James McCann",
+          "Melisa Orta Martinez"
+        ],
+        "institution": [
+          "Carnegie Mellon University",
+          "UCI",
+          "North Carolina State University ",
+          "Carnegie Mellon University",
+          "University of California, Irvine",
+          "Carnegie Mellon University",
+          "Carnegie Mellon"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Designing Looms as Kits for Collaborative Assembly"
+      },
+      {
+        "author": [
+          "Shreya Shankar",
+          "Bhavya Chopra",
+          "Mawil Hasan",
+          "Stephen Lee",
+          "Bjoern Hartmann",
+          "Joseph Hellerstein",
+          "Aditya Parameswaran",
+          "eugene Wu"
+        ],
+        "institution": [
+          "University of California, Berkeley",
+          "University of California, Berkeley",
+          "UC Berkeley",
+          "UC Berkeley",
+          "UC Berkeley",
+          "UC Berkeley",
+          "UC Berkeley",
+          "Columbia University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Steering Semantic Data Processing With DocWrangler"
+      },
+      {
+        "author": [
+          "Shuchang Xu",
+          "Xiaofu Jin",
+          "Wenshuo ZHANG",
+          "Huamin Qu",
+          "Yukang Yan"
+        ],
+        "institution": [
+          "The Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology",
+          "Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology",
+          "University of Rochester"
+        ],
+        "country": [
+          "China",
+          "United States"
+        ],
+        "url": "",
+        "title": "Branch Explorer: Leveraging Branching Narratives to Support Interactive 360° Video Viewing for Blind and Low Vision Users"
+      },
+      {
+        "author": [
+          "HyunA Seo",
+          "Youngki Lee",
+          "Rajesh Balan",
+          "Thivya Kandappu"
+        ],
+        "institution": [
+          "Seoul National University",
+          "Seoul National University",
+          "Singapore Management University",
+          "Singapore management University"
+        ],
+        "country": [
+          "Korea, Republic of",
+          "Singapore"
+        ],
+        "url": "",
+        "title": "EmoShortcuts: Emotionally Expressive Body Augmentation for Social Mixed Reality Avatars"
+      },
+      {
+        "author": [
+          "Shilong Liu",
+          "Chaorui Tong",
+          "Zelu Liu",
+          "Xiangxian Li",
+          "Yawen Zheng",
+          "Chao Zhou",
+          "Juan Liu",
+          "Yulong Bian"
+        ],
+        "institution": [
+          "Shandong University",
+          "Shandong University",
+          "Shandong University",
+          "Shandong University",
+          "Shandong University",
+          "Institute of Software Chinese Academy of Sciences",
+          "School of Mechanical, Electrical & Information Engineering",
+          "Shandong University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "Assessing Dynamic Flow Experience from EEG Signals: A Processing-based Approach"
+      },
+      {
+        "author": [
+          "Kentaro Takahira",
+          "Yue Yu",
+          "Takanori Fujiwara",
+          "Ryo Suzuki",
+          "Huamin Qu"
+        ],
+        "institution": [
+          "Department of Computer Science and Engineering, The Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology",
+          "Linköping University",
+          "University of Colorado Boulder",
+          "The Hong Kong University of Science and Technology"
+        ],
+        "country": [
+          "China",
+          "Sweden",
+          "United States"
+        ],
+        "url": "",
+        "title": "InSituTale: Enhancing Augmented Data Storytelling with Physical Objects"
+      },
+      {
+        "author": [
+          "Chao Zhang",
+          "Kexin Ju",
+          "Zhuolun Han",
+          "Grace Yu-Chun Yen",
+          "Jeffrey Rzeszotarski"
+        ],
+        "institution": [
+          "Cornell University",
+          "University of Michigan",
+          "Cornell University",
+          "National Yang Ming Chiao Tung University",
+          "Cornell University"
+        ],
+        "country": [
+          "United States",
+          "Taiwan"
+        ],
+        "url": "",
+        "title": "Synthia: Visually Interpreting and Synthesizing Feedback for Writing Revision"
+      },
+      {
+        "author": [
+          "Daniel Killough",
+          "Justin Feng",
+          "Zheng Xue Ching",
+          "Daniel Wang",
+          "Rithvik Dyava",
+          "Yapeng Tian",
+          "Yuhang Zhao"
+        ],
+        "institution": [
+          "University of Wisconsin-Madison",
+          "University of Wisconsin-Madison",
+          "University of Wisconsin-Madison",
+          "UW-Madison",
+          "University of Wisconsin-Madison",
+          "University of Texas at Dallas",
+          "University of Wisconsin-Madison"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "VRSight: An AI-Driven Scene Description System to Improve Virtual Reality Accessibility for Blind People"
+      },
+      {
+        "author": [
+          "Martin Feick",
+          "Kora Regitz",
+          "André Zenner"
+        ],
+        "institution": [
+          "Karlsruhe Institute of Technology (KIT)",
+          "Saarland University, Saarland Informatics Campus",
+          "Saarland University, Saarland Informatics Campus"
+        ],
+        "country": [
+          "Germany"
+        ],
+        "url": "",
+        "title": "Delusionized? Potential Harms of Proprioceptive Manipulations through Hand Redirection in Virtual Reality"
+      },
+      {
+        "author": [
+          "Ziwei Gu",
+          "Joyce Zhou",
+          "Ning-Er Lei",
+          "Jonathan Kummerfeld",
+          "Mahmood Jasim",
+          "Narges Mahyar",
+          "Elena Glassman"
+        ],
+        "institution": [
+          "Harvard University",
+          "Cornell University",
+          "Harvard University",
+          "The University of Sydney",
+          "Louisiana State University",
+          "University of Massachusetts Amherst",
+          "Harvard University"
+        ],
+        "country": [
+          "United States",
+          "Australia"
+        ],
+        "url": "",
+        "title": "AbstractExplorer: Leveraging Structure-Mapping Theory to Enhance Comparative Close Reading at Scale"
+      },
+      {
+        "author": [
+          "Bu Li",
+          "Robert Xiao"
+        ],
+        "institution": [
+          "University of British Columbia",
+          "University of British Columbia"
+        ],
+        "country": [
+          "Canada"
+        ],
+        "url": "",
+        "title": "NFCGest: Gesture Interaction with NFC terminal Enabled by Super High Speed ADC"
+      },
+      {
+        "author": [
+          "Sangho Suh",
+          "Michael Lai",
+          "Kevin Pu",
+          "Steven Dow",
+          "Tovi Grossman"
+        ],
+        "institution": [
+          "University of Toronto",
+          "University of Toronto",
+          "University of Toronto",
+          "University of California, San Diego",
+          "University of Toronto"
+        ],
+        "country": [
+          "Canada",
+          "United States"
+        ],
+        "url": "",
+        "title": "StoryEnsemble: Enabling Dynamic Exploration & Iteration in the Design Process with AI and Forward-Backward Propagation"
+      },
+      {
+        "author": [
+          "Priyan Vaithilingam",
+          "Munyeong Kim",
+          "Frida-Cecilia Acosta-Parenteau",
+          "Daniel Lee",
+          "Amine Mhedhbi",
+          "Elena Glassman",
+          "Ian Arawjo"
+        ],
+        "institution": [
+          "Harvard University",
+          "Université de Montréal",
+          "Université de Montréal",
+          "Adobe Inc.",
+          "Polytechnique Montréal",
+          "Harvard University",
+          "Université de Montréal"
+        ],
+        "country": [
+          "United States",
+          "Canada"
+        ],
+        "url": "",
+        "title": "Semantic Commit: Helping Users Update Intent Specifications for AI Memory at Scale"
+      },
+      {
+        "author": [
+          "James Nash",
+          "Kim Sauvé",
+          "Catharina van Riet",
+          "Anke van Oosterhout",
+          "Adwait Sharma",
+          "Christopher Clarke",
+          "Jason Alexander"
+        ],
+        "institution": [
+          "University of Bath",
+          "University of the West of England",
+          "Eindhoven University of Technology",
+          "Eindhoven University of Technology",
+          "University of Bath",
+          "University of Bath",
+          "University of Bath"
+        ],
+        "country": [
+          "United Kingdom",
+          "Netherlands"
+        ],
+        "url": "",
+        "title": "HydroHaptics: High-Fidelity Force-Feedback on Soft Deformable Interfaces using Hydrostatic Transmission"
+      },
+      {
+        "author": [
+          "Jon Froehlich",
+          "Alexander Fiannaca",
+          "Nimer Jaber",
+          "Victor Tsaran",
+          "Shaun Kane"
+        ],
+        "institution": [
+          "Google",
+          "Google",
+          "Google",
+          "Google",
+          "Google Research"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "StreetViewAI: Making Street View Accessible Using Context-Aware Multimodal AI"
+      },
+      {
+        "author": [
+          "Evans Xu Han",
+          "Alice Qian",
+          "Haiyi Zhu",
+          "Hong Shen",
+          "Paul Pu Liang",
+          "Jane Hsieh"
+        ],
+        "institution": [
+          "Yale University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University ",
+          "Massachusetts Institute of Technology",
+          "Carnegie Mellon University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "POET: Supporting Prompting Creativity and Personalization with Automated Expansion of Text-to-Image Generation"
+      },
+      {
+        "author": [
+          "Jingyi Zhang",
+          "Ziwen Lu",
+          "Changrui Zhu",
+          "Simon Julier",
+          "Anthony Steed"
+        ],
+        "institution": [
+          "University College London",
+          "University College London",
+          "University College London",
+          "University College London",
+          "University College London"
+        ],
+        "country": [
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "Do You See What I See? Bring Live Pedestrians into an Outdoor Collaborative Mixed Reality Experience"
+      },
+      {
+        "author": [
+          "Liqi Cheng",
+          "Xiao Xie",
+          "Yiwei Peng",
+          "Minghao Feng",
+          "Yuchen He",
+          "Anqi Cao",
+          "Yihong Wu",
+          "Hui Zhang",
+          "Yingcai Wu"
+        ],
+        "institution": [
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "VisMimic: Integrating Motion Chain in Feedback Video Generation for Motor Coaching"
+      },
+      {
+        "author": [
+          "Andreas Pointner",
+          "Thomas Preindl",
+          "Mira Haberfellner",
+          "Nitzan Cohen",
+          "Niko Münzenrieder",
+          "Michael Haller"
+        ],
+        "institution": [
+          "Free University of Bozen-Bolzano",
+          "Free University of Bozen-Bolzano",
+          "Free University of Bozen-Bolzano",
+          "Free University of Bozen-Bolzano",
+          "Free University of Bozen Bolzano",
+          "Free University of Bozen-Bolzano"
+        ],
+        "country": [
+          "Italy"
+        ],
+        "url": "",
+        "title": "Embroidering Resonant Circuits for Inductive Pressure Sensing"
+      },
+      {
+        "author": [
+          "Lala Shakti Swarup Ray",
+          "Vitor Fortes Rey",
+          "Bo Zhou",
+          "Paul Lukowicz",
+          "Sungho Suh"
+        ],
+        "institution": [
+          "German Research Center for Artificial Intelligence",
+          "Deutsches Forschungszentrum für Künstliche Intelligenz",
+          "German Research Center for Artificial Intelligence (DFKI)",
+          "DFKI",
+          "Korea University"
+        ],
+        "country": [
+          "Germany",
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "ChairPose: Pressure-based Chair Morphology Grounded Sitting Pose Estimation through Simulation-Assisted Training"
+      },
+      {
+        "author": [
+          "Sen Zhang",
+          "Yuxuan Miao",
+          "Jazlin Taylor",
+          "Yiyue Luo"
+        ],
+        "institution": [
+          "University of Washington",
+          "University of Washington",
+          "University of Washington",
+          "University of Washington"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "MagTex: Machine-Knitted Magnetoactive Textiles for Bidirectional Human-Machine Interface"
+      },
+      {
+        "author": [
+          "Dan Rehberg",
+          "Adam Williams",
+          "Anil Ufuk Batmaz",
+          "Francisco Ortega"
+        ],
+        "institution": [
+          "Colorado State University",
+          "Colorado State University",
+          "Concordia University",
+          "Colorado State University"
+        ],
+        "country": [
+          "United States",
+          "Canada"
+        ],
+        "url": "",
+        "title": "Repurposing Audio Playback Tools to Test Human Localization with 6DoF Sound"
+      },
+      {
+        "author": [
+          "Zhuohao (Jerry) Zhang",
+          "Ruiqi Chen",
+          "Mingyuan Zhong",
+          "Jacob Wobbrock"
+        ],
+        "institution": [
+          "University of Washington",
+          "University of Washington",
+          "University of Washington",
+          "University of Washington"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "SlideAudit: A Dataset and Taxonomy for Automated Evaluation of Presentation Slides"
+      },
+      {
+        "author": [
+          "YoungIn Kim",
+          "Jisu Yim",
+          "Yohan Yun",
+          "Donghyeon Ko",
+          "Geehyuk Lee"
+        ],
+        "institution": [
+          "School of Computing, KAIST",
+          "School of Computing, KAIST",
+          "School of Computing, KAIST",
+          "School of Computing, KAIST",
+          "School of Computing, KAIST"
+        ],
+        "country": [
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "StringTouch: A Non-occlusive 3DoF Haptic Interface Using String Structures for Modulating Finger Sensations"
+      },
+      {
+        "author": [
+          "Bryan Min",
+          "Haijun Xia"
+        ],
+        "institution": [
+          "University of California San Diego",
+          "University of California, San Diego"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Meridian: A Design Framework for Malleable Overview-Detail Interfaces"
+      },
+      {
+        "author": [
+          "Ruei-Che Chang",
+          "Tovi Grossman",
+          "Carine Rognon",
+          "Michael Glueck",
+          "Christopher Collins",
+          "Amy Karlson",
+          "Hemant Surale"
+        ],
+        "institution": [
+          "University of Michigan",
+          "University of Toronto",
+          "EPFL",
+          "Meta",
+          "Meta Reality Labs Research",
+          "Meta Inc.",
+          "Meta"
+        ],
+        "country": [
+          "United States",
+          "Canada",
+          "Switzerland"
+        ],
+        "url": "",
+        "title": "Viago: Exploring Visual-Audio Modality Transitions for Social Media Consumption on the Go"
+      },
+      {
+        "author": [
+          "Xiaoying Yang",
+          "Qian Lu",
+          "Jeeeun Kim",
+          "Yang Zhang"
+        ],
+        "institution": [
+          "University of California, Los Angeles",
+          "Texas A&M University",
+          "Texas A&M University",
+          "University of California, Los Angeles"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "LuxAct: Enhance Everyday Objects for Visual Sensing with Interaction-Powered Illumination"
+      },
+      {
+        "author": [
+          "Violet Yinuo Han",
+          "Amber Yinglei Chen",
+          "Mason Zadan",
+          "Jesse Gonzalez",
+          "Dinesh Patel",
+          "Wendy Yu",
+          "Carmel Majidi",
+          "Alexandra Ion"
+        ],
+        "institution": [
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Transforming Everyday Objects into Dynamic Interfaces using Smart Flat-Foldable Structures"
+      },
+      {
+        "author": [
+          "Zhuangze Hou",
+          "Jingze Tian",
+          "Nianlong Li",
+          "Farong Ren",
+          "Can Liu"
+        ],
+        "institution": [
+          "City University of Hong Kong",
+          "City University of Hong Kong",
+          "Lenovo Research",
+          "New York University",
+          "City University of Hong Kong"
+        ],
+        "country": [
+          "China",
+          "United States"
+        ],
+        "url": "",
+        "title": "EchoLadder: Progressive AI-Assisted Design of Immersive VR Scenes"
+      },
+      {
+        "author": [
+          "Vimal Mollyn",
+          "Nathan DeVrio",
+          "Chris Harrison"
+        ],
+        "institution": [
+          "Human-Computer Interaction Institute",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "EclipseTouch: Touch Segmentation on Ad Hoc Surfaces using Worn Infrared Shadow Casting"
+      },
+      {
+        "author": [
+          "Yuqing Lucy Li",
+          "Vlasta Kubušová",
+          "Wedyan Babatain",
+          "Jean-Baptiste Labrune",
+          "Sage Widder",
+          "Bernice Sun",
+          "Jack Forman",
+          "Hiroshi Ishii"
+        ],
+        "institution": [
+          "MIT",
+          "Massachusetts Institute of Technology",
+          "MIT",
+          "MIT",
+          "MIT",
+          "Massachusetts Institute of Technology ",
+          "Massachusetts Institute of Technology",
+          "MIT"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "BioLIG: Functionalizing Biocomposites with Laser-induced Graphene for Bio-Rapid Prototyping of Electronics"
+      },
+      {
+        "author": [
+          "Alan Leung",
+          "Ruijia Cheng",
+          "Jason Wu",
+          "Jeffrey Nichols",
+          "Titus Barik"
+        ],
+        "institution": [
+          "Apple",
+          "Apple",
+          "Apple",
+          "Apple",
+          "Apple"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "SQUIRE: Interactive UI Authoring via Slot QUery Intermediate REpresentations"
+      },
+      {
+        "author": [
+          "Marwa AlAlawi",
+          "Regina Zheng",
+          "SooYeon Ahn",
+          "Katherine Yan",
+          "Ticha Sethapakdi",
+          "Junyi Zhu",
+          "Stefanie Mueller"
+        ],
+        "institution": [
+          "MIT CSAIL",
+          "MIT CSAIL",
+          "Gwangju Institute of Science and Technology",
+          "MIT CSAIL",
+          "MIT CSAIL",
+          "University of Michigan",
+          "MIT CSAIL"
+        ],
+        "country": [
+          "United States",
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "Meta-antenna: Mechanically Frequency Reconfigurable Metamaterial Antennas"
+      },
+      {
+        "author": [
+          "Litao Yan",
+          "Jeffrey Tao",
+          "Lydia Chilton",
+          "Andrew Head"
+        ],
+        "institution": [
+          "University of Pennsylvania",
+          "University of Pennsylvania",
+          "Columbia University",
+          "University of Pennsylvania"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Answering Developer Questions with Annotated Agent-Discovered Program Traces"
+      },
+      {
+        "author": [
+          "Chuhan Jiao",
+          "Zhiming Hu",
+          "Andreas Bulling"
+        ],
+        "institution": [
+          "University of Stuttgart",
+          "University of Stuttgart",
+          "University of Stuttgart"
+        ],
+        "country": [
+          "Germany"
+        ],
+        "url": "",
+        "title": "HAGI: Head-Assisted Gaze Imputation for Mobile Eye Trackers"
+      },
+      {
+        "author": [
+          "Riku Arakawa",
+          "Prasoon Patidar",
+          "Will Page",
+          "Jill Lehman",
+          "Mayank Goel"
+        ],
+        "institution": [
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Scaling Context-Aware Task Assistants that Learn from Demonstration and Adapt through Mixed-Initiative Dialogue"
+      },
+      {
+        "author": [
+          "Tianyu Xu",
+          "Jihan Li",
+          "Penghe Zu",
+          "Pranav Sahay",
+          "Maruchi Kim",
+          "Kwadwo Obeng-Marnu",
+          "Farley Miller",
+          "Xun Qian",
+          "Katrina Passarella-Ward",
+          "Mahitha Rachumalla",
+          "Rajeev Nongpiur",
+          "D Shin"
+        ],
+        "institution": [
+          "Google AR",
+          "Google Inc",
+          "Google Inc",
+          "Google LLC",
+          "University of Washington",
+          "Google",
+          "Cognizant Technology Solutions",
+          "Google",
+          "Google",
+          "Google",
+          "Google",
+          "Google Inc"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Enhancing XR Audio Realism via Multimodal Scene-Aware Acoustic Rendering"
+      },
+      {
+        "author": [
+          "Yudai Tanaka",
+          "Hunter Mathews",
+          "Pedro Lopes"
+        ],
+        "institution": [
+          "University of Chicago",
+          "University of Chicago",
+          "University of Chicago"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Primed Action: Preserving Agency while Accelerating Reaction Time via Subthreshold Brain Stimulation"
+      },
+      {
+        "author": [
+          "Sam Bourgault",
+          "Alejandro Aponte",
+          "Megumi Ondo",
+          "Emilie Yu",
+          "Jennifer Jacobs"
+        ],
+        "institution": [
+          "University of California, Santa Barbara",
+          "University of California Santa Barbara",
+          "University of California, Santa Barbara",
+          "UCSB",
+          "University of California Santa Barbara"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "WORM: Programming Collaborative Robots Through Manual Actions for Craft-Aligned Digital Fabrication"
+      },
+      {
+        "author": [
+          "Changsung Lim",
+          "Taejun Kim",
+          "Geehyuk Lee"
+        ],
+        "institution": [
+          "KAIST",
+          "School of Computing, KAIST",
+          "School of Computing, KAIST"
+        ],
+        "country": [
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "TwinSpin: A Virtual Ball in a VR Controller Enabling In-Hand 3DoF Rotation"
+      },
+      {
+        "author": [
+          "Cedric Honnet",
+          "Wedyan Babatain",
+          "Yiyue Luo",
+          "Ozgun Kilic Afsar",
+          "Chloe Bensahel",
+          "Sarah Nicita",
+          "Yunyi Zhu",
+          "Andreea Danielescu",
+          "Neil Gershenfeld",
+          "Joseph Paradiso"
+        ],
+        "institution": [
+          "MIT",
+          "MIT",
+          "University of Washington",
+          "MIT",
+          "MIT",
+          "Massachusetts Institute of Technology",
+          "MIT CSAIL",
+          "Accenture Labs",
+          "Massachusetts Institute of Technology",
+          "Massachusetts Institute of Technology"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "FiberCircuits: A Miniaturization Framework To Manufacture Fibers That Embed Integrated Circuits"
+      },
+      {
+        "author": [
+          "Yulin Shen",
+          "Boyu Li",
+          "Jiayang Huang",
+          "David Yip",
+          "Zeyu Wang"
+        ],
+        "institution": [
+          "The Hong Kong University of Science and Technology (Guangzhou)",
+          "The Hong Kong University of Science and Technology (Guangzhou)",
+          "The Hong Kong University of Science and Technology (Guangzhou)",
+          "The Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology (Guangzhou)"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "GaussianShopVR: Facilitating Immersive 3D Authoring Using Gaussian Splatting in VR"
+      },
+      {
+        "author": [
+          "Yadong Li",
+          "Shuning Wang",
+          "Yongjian Fu",
+          "Justin Chen",
+          "Xingyu Chen",
+          "Ju Ren",
+          "Xinyu Zhang",
+          "Akshay Gadre",
+          "Ke Sun"
+        ],
+        "institution": [
+          "University of Washington",
+          "Central South University",
+          "Central South University",
+          "UC San Diego",
+          "UC San Diego",
+          "Tsinghua University",
+          "University of California San Diego",
+          "University of Washington",
+          "University of Michigan - Ann Arbor"
+        ],
+        "country": [
+          "United States",
+          "China"
+        ],
+        "url": "",
+        "title": "UltraPoser: Pushing the Limits of IMU-based Full-Body Pose Estimation with Ultrasound Sensing on Consumer Wearables"
+      },
+      {
+        "author": [
+          "Narjes Pourjafarian",
+          "Zhenming Yang",
+          "Jeffrey Lipton",
+          "Benyamin Davaji",
+          "Gregory Abowd"
+        ],
+        "institution": [
+          "Northeastern University",
+          "Northeastern University",
+          "Northeastern University",
+          "Northeastern University",
+          "Northeastern University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "ProForm: Solder-Free Circuit Assembly Using Thermoforming"
+      },
+      {
+        "author": [
+          "Qirui Sun",
+          "Yunyi Ni",
+          "Haixin Qiao",
+          "Jingjing Zhang",
+          "Fan Yang",
+          "Teli Yuan",
+          "Zhihao Yao",
+          "Haipeng Mi"
+        ],
+        "institution": [
+          "Tsinghua University",
+          "Nanyang Technological University",
+          "Kotoko AI",
+          "Beijing Jiaotong University, School of Architecture and Design",
+          "psychology and communication",
+          "Kotoko AI",
+          "Tsinghua University",
+          "Tsinghua University"
+        ],
+        "country": [
+          "China",
+          "Singapore",
+          "Japan",
+          "United States"
+        ],
+        "url": "",
+        "title": "Outline and Detail: A Semantic-Driven Framework for Layered 2D Character Generation"
+      },
+      {
+        "author": [
+          "Tomas Petricek",
+          "Jonathan Edwards"
+        ],
+        "institution": [
+          "Charles University",
+          "Independent"
+        ],
+        "country": [
+          "Czech Republic",
+          "United States"
+        ],
+        "url": "",
+        "title": "Denicek: Computational Substrate for Document-Oriented End-User Programming"
+      },
+      {
+        "author": [
+          "Guanyun Wang",
+          "Haotian Chen",
+          "Yufeng Wang",
+          "Songyun Li",
+          "Yue Tao",
+          "Fanke Qi",
+          "Lizhuo Cao",
+          "Xiao Jin",
+          "Ye Tao",
+          "Jiaji Li"
+        ],
+        "institution": [
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University of Science and Technology",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Imperial College London",
+          "Hangzhou City University",
+          "MIT"
+        ],
+        "country": [
+          "China",
+          "United Kingdom",
+          "United States"
+        ],
+        "url": "",
+        "title": "GyFoam: Fabricating Lattice Foam with Customizable Stiffness through Uniform Expansion"
+      },
+      {
+        "author": [
+          "Liuqing Chen",
+          "Yaxuan Song",
+          "Ke Lyu",
+          "Shuhong Xiao",
+          "Yilang Shen",
+          "Lingyun Sun"
+        ],
+        "institution": [
+          "Zhejiang University",
+          "College of computer science and technology",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "SCENIC: A Location-based System to Foster Cognitive Development in Children During Car Rides"
+      },
+      {
+        "author": [
+          "Hongrui Wu",
+          "Feier Long",
+          "Hongyu Mao",
+          "JaeYoung Moon",
+          "Junyi Zhu",
+          "Yiyue Luo"
+        ],
+        "institution": [
+          "University of Washington",
+          "University of Washington",
+          "Carnegie Mellon University",
+          "Gwangju Institute of Science and Technology",
+          "University of Michigan",
+          "University of Washington"
+        ],
+        "country": [
+          "United States",
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "BandEI: A Flexible Electrical Impedance Sensing Bandage for Deep Muscles and Tendons"
+      },
+      {
+        "author": [
+          "William Huang",
+          "Xia Su",
+          "Jon Froehlich",
+          "Yang Zhang"
+        ],
+        "institution": [
+          "University of California, Los Angeles",
+          "University of Washington",
+          "University of Washington",
+          "University of California, Los Angeles"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Accessibility Scout: Personalized Accessibility Scans of Built Environments"
+      },
+      {
+        "author": [
+          "Marcel Borowski",
+          "Jens Emil Grønbæk",
+          "Peter Butcher",
+          "Panagiotis Ritsos",
+          "Clemens Klokmose",
+          "Niklas Elmqvist"
+        ],
+        "institution": [
+          "Aarhus University",
+          "Aarhus University",
+          "Bangor University",
+          "Bangor University",
+          "Aarhus University",
+          "Aarhus University"
+        ],
+        "country": [
+          "Denmark",
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "Spatialstrates: Cross-Reality Collaboration through Spatial Hypermedia"
+      },
+      {
+        "author": [
+          "Yuyu Lin",
+          "Dian Zhu",
+          "Anoushka Naidu",
+          "Kenneth Yu",
+          "Deon Harper",
+          "Eni Halilaj",
+          "Douglas Weber",
+          "Deborah Kenney",
+          "Adam Popchak",
+          "Mark Baratz",
+          "Alexandra Ion"
+        ],
+        "institution": [
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Stanford ",
+          "University of Pittsburgh",
+          "University of Pittsburgh Medical Center",
+          "Carnegie Mellon University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Personalized Bistable Orthoses for Rehabilitation of Finger Joints"
+      },
+      {
+        "author": [
+          "Xiaoan Liu",
+          "Difan Jia",
+          "Xianhao Carton Liu",
+          "Mar Gonzalez-Franco",
+          "Chen Zhu-Tian"
+        ],
+        "institution": [
+          "New York University",
+          "University of Minnesota",
+          "University of Minnesota",
+          "Google",
+          "University of Minnesota-Twin Cities"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Reality Proxy: Fluid Interactions with Real-World Objects in MR via Abstract Representations"
+      },
+      {
+        "author": [
+          "Junyi Zhu",
+          "Tianyu Xu",
+          "Jiayu Wang",
+          "Emily Guan",
+          "JaeYoung Moon",
+          "Stiven Morvan",
+          "D Shin",
+          "Andrea Colaço",
+          "Stefanie Mueller",
+          "Karan Ahuja",
+          "Yiyue Luo",
+          "Ishan Chatterjee"
+        ],
+        "institution": [
+          "University of Michigan",
+          "Google AR",
+          "University of Washington",
+          "Pratt Institute",
+          "Gwangju Institute of Science and Technology",
+          "Google",
+          "Google Inc",
+          "Google",
+          "MIT CSAIL",
+          "Northwestern University",
+          "University of Washington",
+          "Google"
+        ],
+        "country": [
+          "United States",
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "EI-Lite: Electrical Impedance Sensing for Micro-gesture Recognition and Pinch Force Estimation"
+      },
+      {
+        "author": [
+          "Ryogo Niwa",
+          "Shigeo Yoshida",
+          "Yuki Koyama",
+          "Yoshitaka Ushiku"
+        ],
+        "institution": [
+          "OMRON SINIC X",
+          "OMRON SINIC X",
+          "National Institute of Advanced Industrial Science and Technology (AIST)",
+          "OMRON SINIC X Corp."
+        ],
+        "country": [
+          "Japan"
+        ],
+        "url": "",
+        "title": "Cooperative Design Optimization through Natural Language Interaction"
+      },
+      {
+        "author": [
+          "Jisu Yim",
+          "Donghyeon Ko",
+          "Taeho Kim",
+          "Taejun Kim",
+          "Jonggi Hong",
+          "Geehyuk Lee"
+        ],
+        "institution": [
+          "KAIST",
+          "School of Computing, KAIST",
+          "School of Computing, KAIST",
+          "School of Computing, KAIST",
+          "Stevens Institute of Technology",
+          "School of Computing, KAIST"
+        ],
+        "country": [
+          "Korea, Republic of",
+          "United States"
+        ],
+        "url": "",
+        "title": "Typing Haptically: Towards Enabling Non-auditory Smartphone Text Entry with Haptic Feedback for Blind and Low Vision Users"
+      },
+      {
+        "author": [
+          "Libo Zhang",
+          "Xinyu Yi",
+          "Feng Xu"
+        ],
+        "institution": [
+          "Tsinghua University",
+          "Tsinghua University",
+          "Tsinghua University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "BaroPoser: Real-time Human Motion Tracking from IMUs and Barometers in Everyday Devices"
+      },
+      {
+        "author": [
+          "Joonho Kim",
+          "Fanny Chevalier",
+          "Karan Singh"
+        ],
+        "institution": [
+          "University of Toronto",
+          "University of Toronto",
+          "University of Toronto"
+        ],
+        "country": [
+          "Canada"
+        ],
+        "url": "",
+        "title": "Squidgets: Sketch-based Widget Design for Scene Manipulation"
+      },
+      {
+        "author": [
+          "Yang Liu",
+          "Thorbjørn Mikkelsen",
+          "Zehai Liu",
+          "Gengchen Tian",
+          "Diako Mardanbegi",
+          "Qiushi Zhou",
+          "Hans Gellersen",
+          "Ken Pfeuffer"
+        ],
+        "institution": [
+          "Aarhus University",
+          "Aarhus University",
+          "Aarhus University",
+          "Aarhus University",
+          "American University of Beirut",
+          "Aarhus University",
+          "Lancaster University",
+          "Aarhus University"
+        ],
+        "country": [
+          "Denmark",
+          "Lebanon",
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "At a Glance to Your Fingertips: Enabling Direct Manipulation of Distant Objects Through SightWarp"
+      },
+      {
+        "author": [
+          "Yilin Tang",
+          "Yuyang Fang",
+          "Tianle Wang",
+          "Lingyun Sun",
+          "Liuqing Chen"
+        ],
+        "institution": [
+          "Zhejiang University",
+          "Zhejiang University",
+          "Beijing University of Posts and Telecommunications",
+          "Zhejiang University",
+          "Zhejiang University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "\"This is My Fault\", Really? Understanding Blind and Low-Vision People’s Perception of Hallucination in Large Vision Language Models"
+      },
+      {
+        "author": [
+          "Antony Albert Raj Irudayaraj",
+          "Aditya Shekhar Nittala"
+        ],
+        "institution": [
+          "University of Calgary",
+          "University of Calgary"
+        ],
+        "country": [
+          "Canada"
+        ],
+        "url": "",
+        "title": "LightLink: Enhancing Smartwatch Sensing and Actuation Through Visible Light Communication"
+      },
+      {
+        "author": [
+          "Running Zhao",
+          "Zhihan Jiang",
+          "Xinchen Zhang",
+          "Chirui Chang",
+          "Handi Chen",
+          "Weipeng Deng",
+          "Luyao Jin",
+          "xiaojuan qi",
+          "Xun Qian",
+          "Edith Ngai"
+        ],
+        "institution": [
+          "The University of Hong Kong",
+          "The University of Hong Kong",
+          "Faculty of Engineering, The University of Hong Kong",
+          "The University of Hong Kong",
+          "The University of Hong Kong",
+          "The University of Hong Kong",
+          "The Chinese University of Hong Kong",
+          "The University of Hong Kong",
+          "Google",
+          "The University of Hong Kong"
+        ],
+        "country": [
+          "China",
+          "Hong Kong",
+          "United States"
+        ],
+        "url": "",
+        "title": "NoteIt: A System Converting Instructional Videos to Interactable Notes Through Multimodal Video Understanding"
+      },
+      {
+        "author": [
+          "Kensuke Katori",
+          "Yudai Tanaka",
+          "Yoichi Ochiai",
+          "Pedro Lopes"
+        ],
+        "institution": [
+          "University of Chicago",
+          "University of Chicago",
+          "University of Tsukuba",
+          "University of Chicago"
+        ],
+        "country": [
+          "United States",
+          "Japan"
+        ],
+        "url": "",
+        "title": "Vestibular Stimulation Enhances Hand Redirection"
+      },
+      {
+        "author": [
+          "Haozhe Zhou",
+          "Riku Arakawa",
+          "Yuvraj Agarwal",
+          "Mayank Goel"
+        ],
+        "institution": [
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "IMUCoCo: Enabling Flexible On-Body IMU Placement for Human Pose Estimation and Activity Recognition"
+      },
+      {
+        "author": [
+          "Gaolin Ge",
+          "Haoran Lu",
+          "Yingting Gao",
+          "Qifeng Yang",
+          "Josiah Hester",
+          "Tingyu Cheng",
+          "Yiyue Luo"
+        ],
+        "institution": [
+          "University of Washington",
+          "Student",
+          "Georgia Institute of Technology",
+          "University of Washington",
+          "Georgia Institute of Technology",
+          "Computer Science and Engineering",
+          "University of Washington"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "BIOGEM: A Fully Biodegradable Gelatin-Based McKibben Actuator with Embedded Sensing"
+      },
+      {
+        "author": [
+          "Xia Su",
+          "Ruiqi Chen",
+          "Jingwei Ma",
+          "Chu Li",
+          "Jon Froehlich"
+        ],
+        "institution": [
+          "University of Washington",
+          "University of Washington",
+          "University of Washington",
+          "University of Washington",
+          "University of Washington"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "FlyMeThrough: Human-AI Collaborative 3D Indoor Mapping with Commodity Drones"
+      },
+      {
+        "author": [
+          "Ada Zhao",
+          "Aditya Gunturu",
+          "Ellen Yi-Luen Do",
+          "Ryo Suzuki"
+        ],
+        "institution": [
+          "University of Colorado Boulder",
+          "University of Calgary",
+          "University of Colorado Boulder",
+          "University of Colorado Boulder"
+        ],
+        "country": [
+          "United States",
+          "Canada"
+        ],
+        "url": "",
+        "title": "Guided Reality: Generating Visually-Enriched AR Task Guidance with LLMs and Vision Models"
+      },
+      {
+        "author": [
+          "Jesse Gonzalez",
+          "Yanzhen Zhang",
+          "Dian Zhu",
+          "Alice Yu",
+          "Sapna Tayal",
+          "Nazm Furniturewala",
+          "Ziying Qi",
+          "Somin Moon",
+          "Leyi Han",
+          "Alexandra Ion",
+          "Scott Hudson"
+        ],
+        "institution": [
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University ",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Sculptable Mesh Structures for Large-Scale Form-Finding"
+      },
+      {
+        "author": [
+          "Yonghwan Shin",
+          "Mingyu Han",
+          "Ian Oakley"
+        ],
+        "institution": [
+          "UNIST",
+          "KAIST",
+          "KAIST"
+        ],
+        "country": [
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "StabilizAR: Enabling Hands-Free Head Pointing while Mobile"
+      },
+      {
+        "author": [
+          "Timothy Aveni",
+          "Hila Mor",
+          "Armando Fox",
+          "Bjoern Hartmann"
+        ],
+        "institution": [
+          "University of California, Berkeley",
+          "UC Berkeley",
+          "University of California, Berkeley",
+          "UC Berkeley"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Generative Trigger-Action Programming with Ply"
+      },
+      {
+        "author": [
+          "Dora Zhao",
+          "Diyi Yang",
+          "Michael Bernstein"
+        ],
+        "institution": [
+          "Stanford University",
+          "Stanford University",
+          "Stanford University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Knoll: Creating a Knowledge Ecosystem for Large Language Models"
+      },
+      {
+        "author": [
+          "Erzhen Hu",
+          "Yanhe Chen",
+          "Mingyi Li",
+          "Vrushank Phadnis",
+          "Pingmei Xu",
+          "Xun Qian",
+          "Alex Olwal",
+          "David Kim",
+          "Seongkook Heo",
+          "Ruofei Du"
+        ],
+        "institution": [
+          "University of Virginia",
+          "google",
+          "Northeastern University",
+          "Google",
+          "Google",
+          "Google",
+          "Google Inc.",
+          "Google Research",
+          "University of Virginia",
+          "Google"
+        ],
+        "country": [
+          "United States",
+          "Switzerland"
+        ],
+        "url": "",
+        "title": "DialogLab: Authoring, Simulating, and Testing Dynamic Human-AI Group Conversations"
+      },
+      {
+        "author": [
+          "Gerile Aodeng",
+          "Guozheng Li",
+          "Yunshan Feng",
+          "Qiyang Chen",
+          "Yu Zhang",
+          "Chi Harold Liu"
+        ],
+        "institution": [
+          "Beijing Institute of Technology",
+          "Beijing Institute of Technology",
+          "School of Computer Science",
+          "Beijing Institute of Technology",
+          "University of Oxford",
+          "Beijing Institute of Technology"
+        ],
+        "country": [
+          "China",
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "InReAcTable: LLM-powered Interactive Visual Data Story Construction from Tabular Data"
+      },
+      {
+        "author": [
+          "Kevin Pu",
+          "Ting Zhang",
+          "Naveen Sendhilnathan",
+          "Sebastian Freitag",
+          "Raj Sodhi",
+          "Tanya Jonker"
+        ],
+        "institution": [
+          "University of Toronto",
+          "Meta Reality Labs Research",
+          "Meta",
+          "Meta Inc.",
+          "Facebook",
+          "Meta Inc."
+        ],
+        "country": [
+          "Canada",
+          "United States"
+        ],
+        "url": "",
+        "title": "ProMemAssist: Exploring Timely Proactive Assistance Through Working Memory Modeling in Multi-Modal Wearable Devices"
+      },
+      {
+        "author": [
+          "Esen K. Tütüncü",
+          "Mar Gonzalez-Franco",
+          "Eric Gonzalez"
+        ],
+        "institution": [
+          "Institute of Neurosciences of the University of Barcelona",
+          "Google",
+          "Google"
+        ],
+        "country": [
+          "Spain",
+          "United States"
+        ],
+        "url": "",
+        "title": "HandOver: Enabling Precise Selection & Manipulation of 3D Objects with Mouse and Hand Tracking"
+      },
+      {
+        "author": [
+          "Di Duan",
+          "Kaicheng Xiao",
+          "Lixing He",
+          "Wei Gao",
+          "Guoliang Xing"
+        ],
+        "institution": [
+          "The Chinese University of Hong Kong",
+          "The Chinese University of Hong Kong",
+          "Chinese University of Hong Kong",
+          "University of Pittsburgh",
+          "The Chinese University of Hong Kong"
+        ],
+        "country": [
+          "China",
+          "Hong Kong",
+          "United States"
+        ],
+        "url": "",
+        "title": "PricoEye: The Eye of Primary Colors for Fast and Convenient 3D Reconstruction of Fine-grained Palmprint on Smartphones"
+      },
+      {
+        "author": [
+          "Kyzyl Monteiro",
+          "Yuchen Wu",
+          "Sauvik Das"
+        ],
+        "institution": [
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Imago Obscura: An Image Privacy AI Co-pilot to Enable Identification and Mitigation of Risks"
+      },
+      {
+        "author": [
+          "Sizhe Cheng",
+          "Jiaping Li",
+          "Huanchen Wang",
+          "Yuxin Ma"
+        ],
+        "institution": [
+          "Southern Univerisity of Science and Technology",
+          "Southern University of Science and Technology",
+          "Southern University of Science and Technology",
+          "Southern University of Science and Technology"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "RAGTrace: Understanding and Refining Retrieval-Generation Dynamics in Retrieval-Augmented Generation"
+      },
+      {
+        "author": [
+          "Jiangyu Wang",
+          "Guohao Li",
+          "Lu Zhou",
+          "Li Yang",
+          "Haixin Ye"
+        ],
+        "institution": [
+          "Xidian University",
+          "xidian university",
+          "Xidian University",
+          "xidian university",
+          "Xidian University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "Content-Independent Avatar Ownership Detection for Preventing Sockpuppet-Enabled Violations in the Social Metaverse"
+      },
+      {
+        "author": [
+          "Yoonseo Choi",
+          "Eunhye Kim",
+          "Hyunwoo Kim",
+          "Donghyun Park",
+          "Honggu Lee",
+          "Jinyoung Kim",
+          "Juho Kim"
+        ],
+        "institution": [
+          "KAIST",
+          "Seoul National University",
+          "KAIST",
+          "Naver Corporation",
+          "Naver Corporation",
+          "Naver",
+          "KAIST"
+        ],
+        "country": [
+          "Korea, Republic of",
+          "United States"
+        ],
+        "url": "",
+        "title": "BloomIntent: Automating Search Evaluation with LLM-Generated Fine-Grained User Intents"
+      },
+      {
+        "author": [
+          "Zofia Marciniak",
+          "Punn Lertjaturaphat",
+          "Andrea Bianchi"
+        ],
+        "institution": [
+          "KAIST",
+          "KAIST",
+          "KAIST"
+        ],
+        "country": [
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing"
+      },
+      {
+        "author": [
+          "Chang Xiao",
+          "Brenda Z. Yang"
+        ],
+        "institution": [
+          "Adobe Research",
+          "Columbia University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Streaming, Fast and Slow: Cognitive Load-Aware Streaming for Efficient LLM Serving"
+      },
+      {
+        "author": [
+          "Yifan Li",
+          "Masaaki Fukumoto",
+          "Mohamed Kari",
+          "Shigemi Ishida",
+          "Akihito Noda",
+          "Tomoyuki Yokota",
+          "Takao Someya",
+          "Yoshihiro Kawahara",
+          "Ryo Takahashi"
+        ],
+        "institution": [
+          "The University of Tokyo",
+          "Microsoft Corporation",
+          "Princeton University",
+          "Future University Hakodate",
+          "Kochi University of Technology",
+          "The University of Tokyo",
+          "The University of Tokyo",
+          "The University of Tokyo",
+          "The University of Tokyo"
+        ],
+        "country": [
+          "Japan",
+          "China",
+          "United States"
+        ],
+        "url": "",
+        "title": "Ultra-low-power ring-based wireless tinymouse"
+      },
+      {
+        "author": [
+          "Ticha Sethapakdi",
+          "Maxine Perroni-Scharf",
+          "Mingming Li",
+          "Jiaji Li",
+          "Justin Solomon",
+          "Arvind Satyanarayan",
+          "Stefanie Mueller"
+        ],
+        "institution": [
+          "MIT CSAIL",
+          "MIT CSAIL",
+          "Zhejiang University",
+          "MIT",
+          "MIT",
+          "MIT",
+          "MIT CSAIL"
+        ],
+        "country": [
+          "United States",
+          "China"
+        ],
+        "url": "",
+        "title": "FabObscura: Computational Design and Fabrication for Interactive Barrier-Grid Animations"
+      },
+      {
+        "author": [
+          "Gonzalo Méndez",
+          "Luis Galárraga",
+          "Rodne Quijije",
+          "Miguel Nacenta"
+        ],
+        "institution": [
+          "Universidad Politécnica de Valencia",
+          "Inria",
+          "Escuela Superior Politécnica del Litoral",
+          "University of Victoria"
+        ],
+        "country": [
+          "Spain",
+          "France",
+          "Ecuador",
+          "Canada"
+        ],
+        "url": "",
+        "title": "The Potential of Cognitive Circles to Measure Mental Load"
+      },
+      {
+        "author": [
+          "Ashwin Ram",
+          "Varsha Suresh",
+          "Artin Saberpour Abadian",
+          "Vera Demberg",
+          "Jürgen Steimle"
+        ],
+        "institution": [
+          "Saarland University",
+          "National University of Singapore",
+          "Saarland Informatics Campus",
+          "Saarland University",
+          "Saarland University, Saarland Informatics Campus"
+        ],
+        "country": [
+          "Germany",
+          "Singapore"
+        ],
+        "url": "",
+        "title": "GestureCoach: Rehearsing for Engaging Talks with LLM-Driven Gesture Recommendations"
+      },
+      {
+        "author": [
+          "Anand Kumar",
+          "Antony Albert Raj Irudayaraj",
+          "Ishita Chandra",
+          "Adwait Sharma",
+          "Aditya Shekhar Nittala"
+        ],
+        "institution": [
+          "University of Calgary",
+          "University of Calgary",
+          "University of Calgary",
+          "University of Bath",
+          "University of Calgary"
+        ],
+        "country": [
+          "Canada",
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "SparseEMG: Computational Design of Sparse EMG Layouts for Sensing Gestures"
+      },
+      {
+        "author": [
+          "Rucheng Wu",
+          "Tao Ni",
+          "Zehua Sun",
+          "Jiande Sun",
+          "Weitao Xu"
+        ],
+        "institution": [
+          "City University of Hong Kong",
+          "City University of Hong Kong",
+          "City University of Hong Kong",
+          "Shandong Normal University",
+          "City University of Hong Kong"
+        ],
+        "country": [
+          "China",
+          "Hong Kong"
+        ],
+        "url": "",
+        "title": "RingByte: Enhancing Text-Entry Practicality via A Singular Wearable Rotating Smart Ring"
+      },
+      {
+        "author": [
+          "Yibo Fu",
+          "Emily Guan",
+          "Jianzhe Gu",
+          "Dinesh Patel",
+          "Justin Soza Soto",
+          "Yichi Luo",
+          "Carmel Majidi",
+          "Josiah Hester",
+          "Lining Yao"
+        ],
+        "institution": [
+          "Carnegie Mellon University",
+          "Pratt Institute",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University ",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Georgia Institute of Technology",
+          "University of California, Berkeley"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "DropPop: Designing Drop-to-Deploy Mechanisms with Bistable Scissors Structures"
+      },
+      {
+        "author": [
+          "Junyu Chen",
+          "Qianyuan Zou",
+          "Yingjie Chang",
+          "Seungjae Oh",
+          "Seungwoo Je"
+        ],
+        "institution": [
+          "Southern University of Science and Technology",
+          "Southern University of Science and Technology",
+          "Southern University of Science and Technology",
+          "Kyung Hee University",
+          "Southern University of Science and Technology"
+        ],
+        "country": [
+          "China",
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "Extendlibur: Dynamic Haptic Retargeting for Length-Mismatched Proxies in Co-Located VR"
+      },
+      {
+        "author": [
+          "Violet Yinuo Han",
+          "Jesse Gonzalez",
+          "Christina Yang",
+          "Zhiruo Wang",
+          "Scott Hudson",
+          "Alexandra Ion"
+        ],
+        "institution": [
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Towards Unobtrusive Physical AI: Augmenting Everyday Objects with Intelligence and Robotic Movement for Proactive Assistance"
+      },
+      {
+        "author": [
+          "Zhouyang Shen",
+          "Joanna Bergström",
+          "Madhan Kumar Vasudevan",
+          "Marianna Obrist",
+          "Diego Martinez Plasencia"
+        ],
+        "institution": [
+          "University College London",
+          "University of copenhagen",
+          "University College London",
+          "University College London",
+          "University College London"
+        ],
+        "country": [
+          "United Kingdom",
+          "Denmark"
+        ],
+        "url": "",
+        "title": "Illusory-UMH: A Systematic Comparison of Tactile Illusions and Modulation Techniques in Ultrasonic Mid-air Haptics"
+      },
+      {
+        "author": [
+          "Zahra Ashktorab",
+          "Michael Desmond",
+          "Qian Pan",
+          "James Johnson",
+          "Martin Santillan Cooper",
+          "Elizabeth Daly",
+          "Rahul Nair",
+          "Tejaswini Pedapati",
+          "Hyo Jin Do",
+          "Werner Geyer"
+        ],
+        "institution": [
+          "IBM Research",
+          "IBM Research",
+          "IBM Research",
+          "IBM Research",
+          "IBM Research",
+          "IBM Research",
+          "IBM Research",
+          "IBM Research",
+          "IBM Research",
+          "IBM Research"
+        ],
+        "country": [
+          "United States",
+          "Argentina",
+          "Ireland"
+        ],
+        "url": "",
+        "title": "EvalAssist: Insights on Task-Specific Evaluations and AI-Assisted Judgment Strategy Preferences"
+      },
+      {
+        "author": [
+          "Xincheng Huang",
+          "Dieter Frehlich",
+          "Ziyi Xia",
+          "Peyman Gholami",
+          "Robert Xiao"
+        ],
+        "institution": [
+          "University of British Columbia",
+          "University of British Columbia",
+          "University of British Columbia",
+          "University of British Columbia",
+          "University of British Columbia"
+        ],
+        "country": [
+          "Canada"
+        ],
+        "url": "",
+        "title": "GaussianNexus: Room-Scale Real-Time AR/VR Telepresence with Gaussian Splatting"
+      },
+      {
+        "author": [
+          "Xuye Liu",
+          "Yuzhe You",
+          "Xinrong Qiu",
+          "Tengfei Ma",
+          "Jian Zhao"
+        ],
+        "institution": [
+          "University of Waterloo",
+          "University of Waterloo",
+          "University of Waterloo",
+          "Stony Brook University",
+          "University of Waterloo"
+        ],
+        "country": [
+          "Canada",
+          "United States"
+        ],
+        "url": "",
+        "title": "MACEDON : Supporting Programmers with Real-Time Multi-Dimensional Code Evaluation and Optimization"
+      },
+      {
+        "author": [
+          "Guanyun Wang",
+          "Zhiqi Wang",
+          "Fanyu Li",
+          "Qinyang Liu",
+          "Tianshu Dong",
+          "Zixiang Hong",
+          "Xinyi Li",
+          "Kuangqi Zhu",
+          "Jiaji Li",
+          "Xiaoliang Zhao",
+          "Ye Tao"
+        ],
+        "institution": [
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Central Academy of Fine Arts  ",
+          "Zhejiang University",
+          "Industry Design",
+          "Xinya Collage",
+          "Zhejiang University",
+          "MIT",
+          "College of Software Technology",
+          "Hangzhou City University"
+        ],
+        "country": [
+          "China",
+          "United States"
+        ],
+        "url": "",
+        "title": "EmbroChet: A Hybrid Textile Fabrication Approach for 3D Personalized Handicraft via Heat-Shrinking"
+      },
+      {
+        "author": [
+          "Wenda Zhao",
+          "Muhammad Yasir Khan",
+          "Daniele Baiocco",
+          "Zhibing Zhang",
+          "Anne Roudaut"
+        ],
+        "institution": [
+          "University of Bristol",
+          "University of Bristol",
+          "University of Birmingham",
+          "University of Birmingham",
+          "University of Bristol"
+        ],
+        "country": [
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "Ecolor: Synthesis of EInk Microcapsules for Fabricating DIY Displays"
+      },
+      {
+        "author": [
+          "Zheng Ning",
+          "Leyang Li",
+          "Daniel Killough",
+          "JooYoung Seo",
+          "Patrick Carrington",
+          "Yapeng Tian",
+          "Yuhang Zhao",
+          "Franklin Mingzhe Li",
+          "Toby Li"
+        ],
+        "institution": [
+          "University of Notre Dame",
+          "University of Notre Dame",
+          "University of Wisconsin-Madison",
+          "University of Illinois at Urbana-Champaign",
+          "Carnegie Mellon University",
+          "University of Texas at Dallas",
+          "University of Wisconsin-Madison",
+          "Carnegie Mellon University",
+          "University of Notre Dame"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "AROMA: Mixed-Initiative AI Assistance for Non-Visual Cooking by Grounding Multimodal Information Between Reality and Videos"
+      },
+      {
+        "author": [
+          "Xue Wang",
+          "Yang Zhang"
+        ],
+        "institution": [
+          "University of California, Los Angeles",
+          "University of California, Los Angeles"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Invisibility Cloak: Personalized Smartwatch-Guided Camera Obfuscation"
+      },
+      {
+        "author": [
+          "Yu Mei",
+          "Yuanxi Wang",
+          "Shiyi Wang",
+          "Qingyang Wan",
+          "Zhuojun Li",
+          "Chun Yu",
+          "Weinan Shi",
+          "Yuanchun Shi"
+        ],
+        "institution": [
+          "Tsinghua University",
+          "Nanjing University",
+          "Academy of Arts & Design ",
+          "Academy of Arts & Design",
+          "Tsinghua University",
+          "Tsinghua University",
+          "Tsinghua University",
+          "Tsinghua University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "InterQuest: A Mixed-Initiative Framework for Dynamic User Interest Modeling in Conversational Search"
+      },
+      {
+        "author": [
+          "Shwetha Rajaram",
+          "Jiasi Chen",
+          "Michael Nebeling"
+        ],
+        "institution": [
+          "University of Michigan",
+          "University of Michigan",
+          "University of Michigan"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Privacy Equilibrium: Balancing Privacy Needs in Dynamic Multi-User Augmented Reality Scenarios"
+      },
+      {
+        "author": [
+          "Lei Zhang",
+          "Shuyao Zhou",
+          "Amna Liaqat",
+          "Tinney Mak",
+          "Brian Berengard",
+          "Yunbing Qian",
+          "Andrés Monroy-Hernández"
+        ],
+        "institution": [
+          "New Jersey Institute of Technology",
+          "Princeton University",
+          "Princeton University",
+          "Princeton University",
+          "The Clubhouse Network",
+          "Princeton University",
+          "Princeton University"
+        ],
+        "country": [
+          "United States",
+          "Argentina"
+        ],
+        "url": "",
+        "title": "Empowering Children to Create AI-Enabled Augmented Reality Experiences"
+      },
+      {
+        "author": [
+          "Zheng Wei",
+          "Hongtao Wu",
+          "lvmin Zhang",
+          "Xian Xu",
+          "Yefeng Zheng",
+          "Pan Hui",
+          "Maneesh Agrawala",
+          "Huamin Qu",
+          "Anyi Rao"
+        ],
+        "institution": [
+          "The Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology (Guangzhou)",
+          "Stanford University",
+          "The Hong Kong University of Science and Technology",
+          "Westlake University",
+          "The Hong Kong University of Science and Technology",
+          "Stanford University",
+          "The Hong Kong University of Science and Technology",
+          "Hong Kong University of Science and Technology"
+        ],
+        "country": [
+          "Hong Kong",
+          "China",
+          "United States"
+        ],
+        "url": "",
+        "title": "CineVision: An Interactive Pre-visualization Storyboard System for Director–Cinematographer Collaboration"
+      },
+      {
+        "author": [
+          "Valkyrie Savage",
+          "Harrison Goldstein",
+          "Nóra Püsök",
+          "Jia Yi Ren",
+          "Bhaskar Dutt",
+          "Chandrakana Nandi",
+          "Lora Oehlberg"
+        ],
+        "institution": [
+          "University of Copenhagen",
+          "University of Pennsylvania",
+          "University of Copenhagen",
+          "University of Calgary",
+          "University of Copenhagen",
+          "Certora Inc. and University of Washington",
+          "University of Calgary"
+        ],
+        "country": [
+          "Denmark",
+          "United States",
+          "Canada"
+        ],
+        "url": "",
+        "title": "FEDT: Supporting Experiment Design and Execution in HCI Fabrication Research"
+      },
+      {
+        "author": [
+          "Arthur Caetano",
+          "Yunhao Luo",
+          "Adwait Sharma",
+          "Misha Sra"
+        ],
+        "institution": [
+          "University of California, Santa Barbara",
+          "University of California, Santa Barbara",
+          "University of Bath",
+          "University of California, Santa Barbara"
+        ],
+        "country": [
+          "United States",
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "GraspR: A Computational Model of Spatial User Preferences for Adaptive Grasp UI Design"
+      },
+      {
+        "author": [
+          "Jiaju Ma",
+          "Lei Shi",
+          "Kenneth Robertsen",
+          "Peggy Chi"
+        ],
+        "institution": [
+          "Stanford University",
+          "Google Inc.",
+          "Google",
+          "Google DeepMind"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "AmbigChat: Interactive Hierarchical Clarification for Ambiguous Open-Domain Question Answering"
+      },
+      {
+        "author": [
+          "Weirui Peng",
+          "Yinuo Yang",
+          "Zheng Zhang",
+          "Toby Li"
+        ],
+        "institution": [
+          "Columbia University",
+          "University of Michigan",
+          "University of Notre Dame",
+          "University of Notre Dame"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "GLITTER: An AI-assisted Platform for Material-Grounded Asynchronous Discussion in Flipped Learning"
+      },
+      {
+        "author": [
+          "Frank Heyen",
+          "Marius Labudda",
+          "Michael Sedlmair",
+          "Andreas Fender"
+        ],
+        "institution": [
+          "University of Stuttgart",
+          "University of Stuttgart",
+          "University of Stuttgart",
+          "University of Stuttgart"
+        ],
+        "country": [
+          "Germany"
+        ],
+        "url": "",
+        "title": "GuitarPie: Using the Fretboard of an Electric Guitar for Audio-Based Pie Menu Interaction"
+      },
+      {
+        "author": [
+          "Yue Yang",
+          "Chuang Chen",
+          "Yulu Chen",
+          "Ge Gao",
+          "Lei Ren",
+          "Bolan Yao",
+          "Lingyun Sun",
+          "Ye Tao",
+          "Guanyun Wang"
+        ],
+        "institution": [
+          "Zhejiang University",
+          "Zhejiang University",
+          "University College London",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Hangzhou City University",
+          "Zhejiang University"
+        ],
+        "country": [
+          "China",
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "KiriInflate: Fabricating Cross-Scale Inflatables with Large-Magnitude Contraction and Tunable Stretchability for Tangible Interaction"
+      },
+      {
+        "author": [
+          "Baku Hashimoto",
+          "Jun Kato"
+        ],
+        "institution": [
+          "National Institute of Advanced Industrial Science and Technology (AIST)",
+          "National Institute of Advanced Industrial Science and Technology (AIST)"
+        ],
+        "country": [
+          "Japan"
+        ],
+        "url": "",
+        "title": "Tweeq: Parameter-Tuning GUI Widgets by/for Creative Professionals"
+      },
+      {
+        "author": [
+          "Zhipeng Li",
+          "Yi-Chi Liao",
+          "Christian Holz"
+        ],
+        "institution": [
+          "ETH Zürich",
+          "ETH Zürich",
+          "ETH Zürich"
+        ],
+        "country": [
+          "Switzerland"
+        ],
+        "url": "",
+        "title": "Efficient Visual Appearance Optimization by Learning from Prior Preferences"
+      },
+      {
+        "author": [
+          "Vivian Shen",
+          "Chris Harrison"
+        ],
+        "institution": [
+          "Carnegie Mellon University",
+          "Carnegie Mellon University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Kinethreads: Soft Full-Body Haptic Exosuit using Low-Cost Motor-Pulley Mechanisms"
+      },
+      {
+        "author": [
+          "Xiangzhi Eric WANG",
+          "Zackary Sin",
+          "Ye Jia",
+          "Dan Archer",
+          "Wynonna H. Y. Fong",
+          "qing li",
+          "Chen Li"
+        ],
+        "institution": [
+          "The Hong Kong Polytechnic University",
+          "The Hong Kong Polytechnic University",
+          "Hong Kong Polytechnic University",
+          "University College London",
+          "Heep Yunn School",
+          "The Hong Kong Polytechnic University",
+          "The Hong Kong Polytechnic University "
+        ],
+        "country": [
+          "Hong Kong",
+          "United Kingdom",
+          "China"
+        ],
+        "url": "",
+        "title": "Can You Move These Over There? Exploring an LLM-based VR Mover to Support Natural Multi-object Manipulation"
+      },
+      {
+        "author": [
+          "Jaewook Lee",
+          "Filippo Aleotti",
+          "Diego Mazala",
+          "Guillermo Garcia-Hernando",
+          "Sara Vicente",
+          "Oliver Johnston",
+          "Isabel Kraus-Liang",
+          "Jakub Powierza",
+          "Donghoon Shin",
+          "Jon Froehlich",
+          "Gabriel Brostow",
+          "Jessica Van Brummelen"
+        ],
+        "institution": [
+          "University of Washington",
+          "Niantic, Inc.",
+          "Niantic, Inc.",
+          "Niantic, Inc.",
+          "Niantic, Inc.",
+          "Niantic, Inc.",
+          "Niantic, Inc.",
+          "Niantic, Inc.",
+          "University of Washington",
+          "University of Washington",
+          "University College London",
+          "Niantic, Inc."
+        ],
+        "country": [
+          "United States",
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality"
+      },
+      {
+        "author": [
+          "Alan Pham",
+          "Yuxiao Li",
+          "Miyu Fukuoka",
+          "Ken Nakagaki"
+        ],
+        "institution": [
+          "The University of Chicago",
+          "The University of Chicago",
+          "The University of Electro-Communications",
+          "University of Chicago"
+        ],
+        "country": [
+          "United States",
+          "Japan"
+        ],
+        "url": "",
+        "title": "Buoyancé: Reeling Helium-Inflated Balloons with Mobile Robots on the Ground for Mid-Air Tangible Display, Interaction, and Assembly"
+      },
+      {
+        "author": [
+          "Xiyuan Shen",
+          "Seokhyun Hwang",
+          "Junhan Kong",
+          "Alexandre Filipowicz",
+          "Andrew Best",
+          "Jean Costa",
+          "Scott Carter",
+          "James Fogarty",
+          "Jacob Wobbrock"
+        ],
+        "institution": [
+          "University of Washington",
+          "University of Washington",
+          "University of Washington",
+          "Toyota Research Institute",
+          "Toyota Research Institute",
+          "Toyota Research Institute",
+          "Toyota Research Institute",
+          "University of Washington",
+          "University of Washington"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Touchscreens in Motion: Quantifying the Impact of Cognitive Load on Distracted Drivers"
+      },
+      {
+        "author": [
+          "Seung-Jun Lee",
+          "Jeongche Yoon",
+          "Sang-Hyun Lee",
+          "Joon Hyub Lee",
+          "Seok-Hyung Bae"
+        ],
+        "institution": [
+          "KAIST",
+          "KAIST",
+          "KAIST",
+          "KAIST",
+          "KAIST"
+        ],
+        "country": [
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "3D Sketching + 2D Generative AI for Car Exterior Design"
+      },
+      {
+        "author": [
+          "Shayan Talaei",
+          "Meijin Li",
+          "Kanu Grover",
+          "James Hippler",
+          "Diyi Yang",
+          "Amin Saberi"
+        ],
+        "institution": [
+          "Stanford University",
+          "Stanford University",
+          "Stanford University",
+          "Stanford University",
+          "Stanford University",
+          "Stanford University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "StorySage: Conversational Autobiography Writing Powered by a Multi-Agent Framework"
+      },
+      {
+        "author": [
+          "Yuan Tian",
+          "Chuhan Zhang",
+          "Xiaotong Wang",
+          "Sitong Pan",
+          "Weiwei Cui",
+          "Haidong Zhang",
+          "Dazhen Deng",
+          "Yingcai Wu"
+        ],
+        "institution": [
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Microsoft Research Asia",
+          "Microsoft Research Asia",
+          "Zhejiang University",
+          "Zhejiang University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "ReSpark: Leveraging Previous Data Reports as References to Generate New Reports with LLMs"
+      },
+      {
+        "author": [
+          "Seongjun Kang",
+          "Gwangbin Kim",
+          "Bocheon Gim",
+          "Jeongju Park",
+          "Semoo Shin",
+          "SeungJun Kim"
+        ],
+        "institution": [
+          "Gwangju Institute of Science and Technology",
+          "Gwangju Institute of Science and Technology",
+          "Gwangju Institute of Science and Technology",
+          "Gwangju Institute of Science and Technology",
+          "Gwangju Institute of Science and Technology",
+          "Gwangju Institute of Science and Technology"
+        ],
+        "country": [
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "EarPressure VR: Ear Canal Pressure Feedback for Enhancing Environmental Presence in Virtual Reality"
+      },
+      {
+        "author": [
+          "Matthew Jeung",
+          "Anup Sathya",
+          "Steven Arellano",
+          "Wanli Qian",
+          "Luke Jimenez",
+          "Raymond Qian",
+          "Ken Nakagaki"
+        ],
+        "institution": [
+          "University of Chicago",
+          "University of Chicago",
+          "University of Chicago",
+          "University of Chicago",
+          "University of Chicago",
+          "University of Chicago",
+          "University of Chicago"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Shape n’ Swarm: Hands-on, Shape-aware Generative Authoring with Swarm UI and LLMs"
+      },
+      {
+        "author": [
+          "Guanhong Liu",
+          "Jingxin Ye",
+          "Qiaoqiao Jin",
+          "Chao Yuan",
+          "Xuechen Li",
+          "Yang Shi",
+          "Qing Chen",
+          "Nan Cao"
+        ],
+        "institution": [
+          "Tongji University",
+          "Tongji University",
+          "Tongji University",
+          "Tongji University",
+          "Tongji University",
+          "College of Design and Innovation, Tongji University",
+          "Tongji University",
+          "Tongji College of Design and Innovation"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "ViviClay: Designing and Fabricating Ceramics with Animation Effects on Physical Surfaces"
+      },
+      {
+        "author": [
+          "Zeyu Yan",
+          "Su Hwan Hong",
+          "Josiah Hester",
+          "Tingyu Cheng",
+          "Huaishu Peng"
+        ],
+        "institution": [
+          "University Of Maryland",
+          "University of Maryland, College Park",
+          "Georgia Institute of Technology",
+          "Computer Science and Engineering",
+          "University of Maryland"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "DissolvPCB: Fully Recyclable 3D-Printed Electronics with Liquid Metal Conductors and PVA Substrates"
+      },
+      {
+        "author": [
+          "Alan Cheng",
+          "Carolyn Zou",
+          "Anthony Xie",
+          "Matthew Hsu",
+          "Felicia Yan",
+          "Felicity Huang",
+          "David Zhang",
+          "Arjun Sharma",
+          "Rashon Poole",
+          "Daniel Wan Rosli",
+          "Andrea Cuadra",
+          "Roy Pea",
+          "James Landay"
+        ],
+        "institution": [
+          "Stanford University",
+          "Stanford University",
+          "Stanford University",
+          "Stanford University",
+          "Stanford University",
+          "Stanford University",
+          "Stanford University",
+          "Stanford University",
+          "Stanford University",
+          "Computer Science",
+          "Olin College",
+          "Stanford University",
+          "Stanford University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": " Oak Story: Improving Learner Outcomes with LLM-Mediated Interactive Narratives"
+      },
+      {
+        "author": [
+          "Seoyoung Lee",
+          "Seobin Yoon",
+          "Hyesoo Kim",
+          "Seongbeen Lee",
+          "Joo Yong Sim"
+        ],
+        "institution": [
+          "Sookmyung Women's University",
+          "Sookmyung Women's University",
+          "Sookmyung Women's University",
+          "Sookmyung Women's University",
+          "Sookmyung Women's University"
+        ],
+        "country": [
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "Log2Plan: An Adaptive GUI Automation Framework Integrated with Task Mining Approach"
+      },
+      {
+        "author": [
+          "Damien Masson",
+          "Zixin Zhao",
+          "Fanny Chevalier"
+        ],
+        "institution": [
+          "Université de Montréal",
+          "University of Toronto",
+          "University of Toronto"
+        ],
+        "country": [
+          "Canada"
+        ],
+        "url": "",
+        "title": "Visual Story-Writing: Writing by Manipulating Visual Representations of Stories"
+      },
+      {
+        "author": [
+          "Koki Yamagami",
+          "Masato Goto",
+          "Junichiro Kadomoto",
+          "Hidetsugu Irie"
+        ],
+        "institution": [
+          "The University of Tokyo",
+          "The University of Tokyo",
+          "The University of Tokyo",
+          "The University of Tokyo"
+        ],
+        "country": [
+          "Japan"
+        ],
+        "url": "",
+        "title": "MorphKeys: A Reconfigurable Keyboard System Using Switched NFC Tags"
+      },
+      {
+        "author": [
+          "Omar Shaikh",
+          "Shardul Sapkota",
+          "Shan Rizvi",
+          "Eric Horvitz",
+          "Joon Sung Park",
+          "Diyi Yang",
+          "Michael Bernstein"
+        ],
+        "institution": [
+          "Stanford University",
+          "Stanford University",
+          "None",
+          "Microsoft",
+          "Stanford University",
+          "Stanford University",
+          "Stanford University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Creating General User Models from Computer Use"
+      },
+      {
+        "author": [
+          "Jack Hester",
+          "Sebastian Law",
+          "Megan Hofmann"
+        ],
+        "institution": [
+          "Northeastern University",
+          "Seattle University",
+          "Northeastern University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "QUILT: Supporting Modular Design of Machine-Knitting Programs"
+      },
+      {
+        "author": [
+          "Fei Hong",
+          "Yan Zhang",
+          "Xiaoying Sun"
+        ],
+        "institution": [
+          "JiLin University",
+          "JiLin University",
+          "JiLin University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "Image-based Tactile Rendering Method Using Frequency Modulation under the Weber Fractions Constraint by Electrovibration"
+      },
+      {
+        "author": [
+          "Donghyeok Ma",
+          "Hanbee Jang",
+          "Joon Hyub Lee",
+          "Seok-Hyung Bae"
+        ],
+        "institution": [
+          "KAIST",
+          "KAIST",
+          "KAIST",
+          "KAIST"
+        ],
+        "country": [
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "Garden of Papers: Finding, Reading, and Organizing Research Papers in a Visual, Integrated, and Flexible Workspace"
+      },
+      {
+        "author": [
+          "BoRui Li",
+          "Jinda Yang",
+          "Apurva Jain",
+          "William Newberry",
+          "Xing-Dong Yang"
+        ],
+        "institution": [
+          "Simon Fraser University",
+          "Simon Fraser University",
+          "Lumotive Technologies Inc.",
+          "Lumotive",
+          "Simon Fraser University"
+        ],
+        "country": [
+          "Canada"
+        ],
+        "url": "",
+        "title": "LiDArgus: Accommodating Diverse Privacy Preferences in LiDAR Sensing Through Configurable Sub-Zoning"
+      },
+      {
+        "author": [
+          "Adam Coscia",
+          "Shunan Guo",
+          "Eunyee Koh",
+          "Alex Endert"
+        ],
+        "institution": [
+          "Georgia Institute of Technology",
+          "Adobe Research",
+          "Adobe Research",
+          "Georgia Institute of Technology"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn Dialogue with Large Language Models"
+      },
+      {
+        "author": [
+          "Dan Zhang",
+          "Yan Ma",
+          "Glenn Dausch",
+          "William Seiple",
+          "Xianfeng David Gu",
+          "IV Ramakrishnan",
+          "Xiaojun Bi"
+        ],
+        "institution": [
+          "Stony Brook University",
+          "Stony Brook University",
+          "Stony Brook University",
+          "Lighthouse Guild",
+          "Stony Brook University",
+          "Stony Brook University",
+          "Stony Brook University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Enabling Auto-Correction on Soft Braille Keyboard"
+      },
+      {
+        "author": [
+          "Taiting Lu",
+          "Christian Krauter",
+          "Runze Liu",
+          "Mara Schulte",
+          "Alexander Achberger",
+          "Tanja Blascheck",
+          "Michael Sedlmair",
+          "Mahanth Gowda"
+        ],
+        "institution": [
+          "The Pennsylvania State University",
+          "University of Stuttgart",
+          "The Pennsylvania State University",
+          "University Stuttgart",
+          "University of Stuttgart",
+          "University of Stuttgart",
+          "University of Stuttgart",
+          "Pennsylvania State University"
+        ],
+        "country": [
+          "United States",
+          "Germany"
+        ],
+        "url": "",
+        "title": "VisRing: A Display-Extended Smartring for Nano Visualizations"
+      },
+      {
+        "author": [
+          "Mina Huh",
+          "Zihui Xue",
+          "Ujjaini Das",
+          "Kumar Ashutosh",
+          "Kristen Grauman",
+          "Amy Pavel"
+        ],
+        "institution": [
+          "University of Texas, Austin",
+          "The University of Texas at Austin",
+          "University of Texas at Austin",
+          "UT Austin",
+          "University of Texas at Austin",
+          "University of Texas, Austin"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Vid2Coach: Transforming How-To Videos into Task Assistants"
+      },
+      {
+        "author": [
+          "Rebecca Lin",
+          "Michal Lukáč",
+          "Mackenzie Leake"
+        ],
+        "institution": [
+          "MIT",
+          "Adobe Research",
+          "Adobe Research"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Refashion: Reconfigurable Garments via Modular Design"
+      },
+      {
+        "author": [
+          "Sean Tan",
+          "Mun Choon Chan",
+          "Jun Han"
+        ],
+        "institution": [
+          "National University of Singapore",
+          "National University of Singapore",
+          "KAIST"
+        ],
+        "country": [
+          "Singapore",
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "UniKey: Enabling Surface-Based Typing with Commodity Smartwatches via Cross-Modal Learning"
+      },
+      {
+        "author": [
+          "Shohei Katakura",
+          "Chiao Fang",
+          "Mehdi Gouasmi",
+          "Lino Hellige",
+          "Yoan Tchorenev",
+          "David Bizer",
+          "Conrad Lempert",
+          "Martin Taraz",
+          "Muhammad Abdullah",
+          "Patrick Baudisch"
+        ],
+        "institution": [
+          "Hasso Plattner Institute",
+          "Hasso Plattner Institute",
+          "Hasso-Plattner-Institute",
+          "Hasso Plattner Institute",
+          "Hasso Plattner Institute",
+          "Hasso Plattner Institute",
+          "Hasso Plattner Institute",
+          "Hasso Plattner Institute",
+          "Hasso Plattner Institute",
+          "Hasso Plattner Institute"
+        ],
+        "country": [
+          "Germany"
+        ],
+        "url": "",
+        "title": "Mallet-Based Assembly: Enabling Load-Bearing Laser-Cut Models"
+      },
+      {
+        "author": [
+          "Run Huang",
+          "Anna Katherine Zhao",
+          "Zeinabsadat Saghi",
+          "Sadra Sabouri",
+          "Souti Chattopadhyay"
+        ],
+        "institution": [
+          "University of Southern California",
+          "University of Southern California",
+          "University of Southern California",
+          "University of Southern California",
+          "University of Southern California"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Beyond the Page: Enriching Academic Paper Reading with Social Media Discussions"
+      },
+      {
+        "author": [
+          "Mohamed Kari",
+          "Parastoo Abtahi"
+        ],
+        "institution": [
+          "Princeton University",
+          "Princeton University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Reality Promises: Virtual-Physical Decoupling Illusions in Mixed Reality via Invisible Mobile Robots"
+      },
+      {
+        "author": [
+          "Sam Cohen",
+          "Ravi Chugh"
+        ],
+        "institution": [
+          "The University of Chicago",
+          "University of Chicago"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Ragged Blocks: Rendering Structured Text With Style"
+      },
+      {
+        "author": [
+          "Shizhen Zhang",
+          "Shengxin Li",
+          "Quan Li"
+        ],
+        "institution": [
+          "ShanghaiTech University",
+          "ShanghaiTech University",
+          "ShanghaiTech University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "Understood: Real-Time Communication Support for Adults with ADHD Using Mixed Reality"
+      },
+      {
+        "author": [
+          "Samuel Levulis",
+          "Kevin Rio",
+          "James P. Wilmott",
+          "Pablo Ramon Soria",
+          "Charlie Burlingham",
+          "Phillip Guan"
+        ],
+        "institution": [
+          "Meta",
+          "Meta",
+          "Meta",
+          "Meta",
+          "Meta",
+          "Meta"
+        ],
+        "country": [
+          "United States",
+          "Switzerland"
+        ],
+        "url": "",
+        "title": "Subthreshold Jitter in VR Can Induce Visual Discomfort"
+      },
+      {
+        "author": [
+          "Chenfei Zhu",
+          "Shao-Kang Hsia",
+          "Xiyun Hu",
+          "Ziyi Liu",
+          "Jingyu Shi",
+          "Karthik Ramani"
+        ],
+        "institution": [
+          "Purdue University",
+          "Purdue University",
+          "Purdue University",
+          "Purdue University",
+          "Purdue University",
+          "Purdue University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "agentAR: Creating Augmented Reality Applications with Tool-Augmented LLM-based Autonomous Agents"
+      },
+      {
+        "author": [
+          "Yatharth Singhal",
+          "Daniel Honrales",
+          "Jin Ryong Kim"
+        ],
+        "institution": [
+          "University of Texas at Dallas",
+          "University of Texas at Dallas",
+          "University of Texas at Dallas"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "HeatFlow: A Thermal-Tactile Display for Dynamic 2D Thermal Movements"
+      },
+      {
+        "author": [
+          "Quentin Zoppis",
+          "Sergi Pujades",
+          "Laurence Nigay",
+          "François Bérard"
+        ],
+        "institution": [
+          "Univ. Grenoble Alpes, CNRS, Inria, Grenoble INP, LIG, LJK",
+          "Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LJK",
+          "Univ. Grenoble Alpes, CNRS, Grenoble INP, LIG",
+          "Univ. Grenoble Alpes, CNRS, Grenoble INP, LIG"
+        ],
+        "country": [
+          "France"
+        ],
+        "url": "",
+        "title": "Efficient Finger Model and Accurate Tracking for Hover-and-Touch, Mid-air and Microgesture Interaction"
+      },
+      {
+        "author": [
+          "Yong Hae Heo",
+          "Seok Hun Lee",
+          "Hongmin Yoon",
+          "Jaeyeon Lee",
+          "Sang-Youn Kim"
+        ],
+        "institution": [
+          "Korea University of Technology and Education",
+          "Korea University of Technology and Education",
+          "Korea University of Technology and Education",
+          "UNIST",
+          "Korea University of Technology and Education"
+        ],
+        "country": [
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "Mod2Hap: Two Level Modular Haptic System for Body- and Hand- Interactions using Magnetorheological Fluid"
+      },
+      {
+        "author": [
+          "Danqing Shi",
+          "Furui Cheng",
+          "Tino Weinkauf",
+          "Antti Oulasvirta",
+          "Mennatallah El-Assady"
+        ],
+        "institution": [
+          "Aalto University",
+          "ETH Zürich",
+          "KTH Royal Institute of Technology",
+          "Aalto University",
+          "ETH Zürich"
+        ],
+        "country": [
+          "Finland",
+          "Switzerland",
+          "Sweden"
+        ],
+        "url": "",
+        "title": "DxHF: Providing High-Quality Human Feedback for LLM Alignment with Interactive Decomposition"
+      },
+      {
+        "author": [
+          "Jiacheng Zhang",
+          "Jiawen Li",
+          "Maryam Arab",
+          "Steve Oney"
+        ],
+        "institution": [
+          "University of Michigan, Ann Arbor",
+          "University of Michigan",
+          "University Of Michigan",
+          "University of Michigan"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Multi-Click: Cross-Tab Web Automation via Action Generalization"
+      },
+      {
+        "author": [
+          "Yingjing Xiao",
+          "ZhiChao Huang",
+          "Junbin Ren",
+          "Yuting Bai",
+          "Haichuan Song",
+          "Zhanpeng Jin",
+          "Yang Gao"
+        ],
+        "institution": [
+          "East China Normal University",
+          "ECNU",
+          "East China Normal University",
+          "South China University of Technology",
+          "East China Normal University",
+          "South China University of Technology",
+          "East China Normal University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "Wrist2Finger: Sensing Fingertip Force for Force-Aware Hand Interaction with a Ring-Watch Wearable"
+      },
+      {
+        "author": [
+          "Tan Tang",
+          "Yanhong Wu",
+          "Yihan Gao",
+          "Junming Gao",
+          "Songela Nur",
+          "Buwei Zhou",
+          "Yuchen Lin",
+          "Yingcai Wu",
+          "Xiaosong Wang",
+          "Xiaojiao Chen"
+        ],
+        "institution": [
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Laboratory of Art and Archaeology Image, Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "CAnnotator: Photo-Guided Color Annotation for Degraded Ancient Paintings"
+      },
+      {
+        "author": [
+          "Maxine Perroni-Scharf",
+          "Jennifer Xiao",
+          "Cole Paulin",
+          "Zhi Ray Wang",
+          "Ticha Sethapakdi",
+          "Muhammad Abdullah",
+          "Patrick Baudisch",
+          "Stefanie Mueller"
+        ],
+        "institution": [
+          "MIT CSAIL",
+          "Massachusetts Institute of Technology",
+          "MIT",
+          "Massachusetts Institute of Technology",
+          "MIT CSAIL",
+          "Hasso Plattner Institute",
+          "Potsdam University",
+          "MIT CSAIL"
+        ],
+        "country": [
+          "United States",
+          "Germany"
+        ],
+        "url": "",
+        "title": "SustainaPrint: Making the Most of Eco-Friendly Filaments"
+      },
+      {
+        "author": [
+          "Runhua ZHANG",
+          "Yang Ouyang",
+          "Leixian Shen",
+          "Yuying Tang",
+          "Xiaojuan Ma",
+          "Huamin Qu",
+          "Xian Xu"
+        ],
+        "institution": [
+          "The Hong Kong University of Science and Technology",
+          "ShanghaiTech University",
+          "The Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology ",
+          "Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology"
+        ],
+        "country": [
+          "China",
+          "Hong Kong"
+        ],
+        "url": "",
+        "title": "PaperBridge: Crafting Research Narratives through Human-AI Co-Exploration"
+      },
+      {
+        "author": [
+          "Yue Lyu",
+          "Xizi Wang",
+          "Hanlu Ma",
+          "Yalong Yang",
+          "Jian Zhao"
+        ],
+        "institution": [
+          "University of Waterloo",
+          "University of Waterloo",
+          "Hong Kong University of Science and Technology",
+          "Georgia Institute of Technology",
+          "University of Waterloo"
+        ],
+        "country": [
+          "Canada",
+          "China",
+          "United States"
+        ],
+        "url": "",
+        "title": "ATCion: Exploring the Design of Icon-based Visual Aids for Enhancing In-cockpit Air Traffic Control Communication"
+      },
+      {
+        "author": [
+          "Yu Jiang",
+          "Alice Haynes",
+          "Jürgen Steimle"
+        ],
+        "institution": [
+          "Saarland University, Saarland Informatics Campus",
+          "KTH Royal Institute of Technology",
+          "Saarland University, Saarland Informatics Campus"
+        ],
+        "country": [
+          "Germany",
+          "Sweden"
+        ],
+        "url": "",
+        "title": "Texergy:  Textile-based Harvesting, Storing, and Releasing of Mechanical Energy for Passive On-Body Actuation"
+      },
+      {
+        "author": [
+          "Sora Kanosue",
+          "Xiaorui Liu",
+          "Parker Ziegler",
+          "Eric Rawn",
+          "Sarah Chasins"
+        ],
+        "institution": [
+          "University of California, Berkeley",
+          "University of California, Berkeley",
+          "University of California, Berkeley",
+          "University of California, Berkeley",
+          "University of California, Berkeley"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "HiLT: A Library for Generating Human-in-the-Loop Data Transformation GUIs"
+      },
+      {
+        "author": [
+          "Yongxiang Cai",
+          "Taiting Lu",
+          "Zhenghao Li",
+          "Hao Zhou",
+          "Kenneth DeHaan",
+          "Xuhai \"Orson\" Xu",
+          "Mahanth Gowda",
+          "Yincheng Jin"
+        ],
+        "institution": [
+          "Binghamton University",
+          "The Pennsylvania State University",
+          "Pennsylvania State University ",
+          "The Pennsylvania State University",
+          "Gallaudet University",
+          "Columbia University",
+          "Pennsylvania State University",
+          "Binghamton University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "SignGlass: First-Person View Comprehensive and Generalizable ASL Translation Using Wearable Glass"
+      },
+      {
+        "author": [
+          "Junghwan Kim",
+          "Hyeonseok Jeon",
+          "Dongseok Heo",
+          "Jung Lee",
+          "Bongwon Suh"
+        ],
+        "institution": [
+          "Seoul National University",
+          "Seoul National University",
+          "Seoul National University",
+          "Seoul National University",
+          "Seoul National University"
+        ],
+        "country": [
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "LegisFlow: Enhancing Korean Legal Research with Temporal-Aware LLM Interfaces"
+      },
+      {
+        "author": [
+          "Hannah Selder",
+          "Florian Fischer",
+          "Per Ola Kristensson",
+          "Arthur Fleig"
+        ],
+        "institution": [
+          "Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden/Leipzig, Leipzig University",
+          "University of Cambridge",
+          "University of Cambridge",
+          "Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden/Leipzig, Leipzig University"
+        ],
+        "country": [
+          "Germany",
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "Demystifying Reward Design in Reinforcement Learning for Upper Extremity Interaction: Practical Guidelines for Biomechanical Simulations in HCI"
+      },
+      {
+        "author": [
+          "Yi-Hao Peng",
+          "Ding Li",
+          "Jeffrey Bigham",
+          "Amy Pavel"
+        ],
+        "institution": [
+          "Carnegie Mellon University",
+          "Adobe Research",
+          "Carnegie Mellon University",
+          "University of Texas, Austin"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Morae: Proactively Pausing UI Agents for User Choices"
+      },
+      {
+        "author": [
+          "Chongyang Wang",
+          "Tianyi Xia",
+          "Yifan Wang",
+          "Gang Yu",
+          "Zixuan Zhao",
+          "Siqi Zheng",
+          "Manqiu Liao",
+          "Chen Liang",
+          "Yuan Gao",
+          "Chun Yu",
+          "Yuntao Wang",
+          "Yuanchun Shi"
+        ],
+        "institution": [
+          "Sichuan University",
+          "Tsinghua University",
+          "City University of Hong Kong",
+          "Tsinghua Unviersity",
+          "Tsinghua University",
+          "Tsinghua University",
+          "Beijing University of Posts and Telecommunications",
+          "The Hong Kong University of Science and Technology (Guangzhou)",
+          "Shenzhen Institute of Artificial Intelligence and Robotics",
+          "Tsinghua University",
+          "Tsinghua University",
+          "Tsinghua University"
+        ],
+        "country": [
+          "China",
+          "Hong Kong",
+          "Sweden"
+        ],
+        "url": "",
+        "title": "Understanding Users' Perceptions and Expectations toward a Social Balloon Robot via an Exploratory Study"
+      },
+      {
+        "author": [
+          "Jim Smiley",
+          "Swamy Ananthanarayan",
+          "Leona Holloway",
+          "Matthew Butler",
+          "Tim Dwyer"
+        ],
+        "institution": [
+          "Monash University",
+          "Monash University",
+          "Monash University",
+          "Monash University",
+          "Monash University"
+        ],
+        "country": [
+          "Australia"
+        ],
+        "url": "",
+        "title": "MagnePins: A Modular, Affordable, and DIY Refreshable Braille and Tactile Display"
+      },
+      {
+        "author": [
+          "Aditya Gunturu",
+          "Ben Pearman",
+          "Keiichi Ihara",
+          "Morteza Faraji",
+          "Bryan Wang",
+          "Rubaiat Habib Kazi",
+          "Ryo Suzuki"
+        ],
+        "institution": [
+          "University of Calgary",
+          "University of Calgary",
+          "University of Tsukuba",
+          "University of Calgary",
+          "Adobe",
+          "Adobe Research",
+          "University of Colorado Boulder"
+        ],
+        "country": [
+          "Canada",
+          "Japan",
+          "United States"
+        ],
+        "url": "",
+        "title": "MapStory: Prototyping Editable Map Animations with LLM Agents"
+      },
+      {
+        "author": [
+          "Jiaju Ma",
+          "Chau Vu",
+          "Asya Lyubavina",
+          "Catherine Liu",
+          "Jingyi Li"
+        ],
+        "institution": [
+          "Stanford University",
+          "Pomona College",
+          "Pomona College",
+          "Claremont McKenna College",
+          "Pomona College"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Computational Scaffolding of Composition, Value, and Color for Disciplined Drawing"
+      },
+      {
+        "author": [
+          "Stephen Freund",
+          "Brooke Simon",
+          "Emery Berger",
+          "Eunice Jun"
+        ],
+        "institution": [
+          "Williams College",
+          "UCLA",
+          "University of Massachusetts Amherst",
+          "University of Washington"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Flowco: Mixed-Initiative Authoring of Reliable End-to-End Data Analyses via Dataflow Graphs and LLMs"
+      },
+      {
+        "author": [
+          "Boyu Li",
+          "Lin-Ping Yuan",
+          "Zeyu Wang"
+        ],
+        "institution": [
+          "The Hong Kong University of Science and Technology (Guangzhou)",
+          "The Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology (Guangzhou)"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "VideoCraft: A Mixed Reality-Empowered Video Generation Workflow with Spatial Layer Editing for Concept Video Creation"
+      },
+      {
+        "author": [
+          "Michelle Lam",
+          "Fred Hohman",
+          "Dominik Moritz",
+          "Jeffrey Bigham",
+          "Kenneth Holstein",
+          "Mary Beth Kery"
+        ],
+        "institution": [
+          "Stanford University",
+          "Apple",
+          "Apple",
+          "Apple",
+          "Carnegie Mellon University",
+          "Apple Inc."
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Policy Maps: Tools for Guiding the Unbounded Space of LLM Behaviors"
+      },
+      {
+        "author": [
+          "Chao-Jung Lai",
+          "Mauricio Sousa",
+          "Tianyu Zhang",
+          "Ludwig Sidenmark",
+          "Tovi Grossman"
+        ],
+        "institution": [
+          "University of Toronto",
+          "University of Toronto",
+          "University of Toronto",
+          "University of Toronto",
+          "University of Toronto"
+        ],
+        "country": [
+          "Canada"
+        ],
+        "url": "",
+        "title": "Adaptique: Multi-objective and Context-aware Online Adaptation of Selection Techniques in Virtual Reality"
+      },
+      {
+        "author": [
+          "Erzhen Hu",
+          "Mingyi Li",
+          "Andrew Hong",
+          "Xun Qian",
+          "Alex Olwal",
+          "David Kim",
+          "Seongkook Heo",
+          "Ruofei Du"
+        ],
+        "institution": [
+          "University of Virginia",
+          "Northeastern University",
+          "University of Virginia",
+          "Google",
+          "Google Inc.",
+          "Google Research",
+          "University of Virginia",
+          "Google"
+        ],
+        "country": [
+          "United States",
+          "Switzerland"
+        ],
+        "url": "",
+        "title": "Thing2Reality: Enabling Spontaneous Creation of 3D Objects from 2D Content using Generative AI in XR Meetings"
+      },
+      {
+        "author": [
+          "Jiajun Zhu",
+          "Xinyu Cheng",
+          "Zhongsu Luo",
+          "Yunfan Zhou",
+          "Xinhuan Shu",
+          "Di Weng",
+          "Yingcai Wu"
+        ],
+        "institution": [
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Newcastle University",
+          "Zhejiang University",
+          "Zhejiang University"
+        ],
+        "country": [
+          "China",
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "ViseGPT: Towards Better Alignment of LLM-generated Data Wrangling Scripts and User Prompts"
+      },
+      {
+        "author": [
+          "Geonsun Lee",
+          "Min Xia",
+          "Nels Numan",
+          "Xun Qian",
+          "David Li",
+          "Yanhe Chen",
+          "Achin Kulshrestha",
+          "Ishan Chatterjee",
+          "Yinda Zhang",
+          "Dinesh Manocha",
+          "David Kim",
+          "Ruofei Du"
+        ],
+        "institution": [
+          "University of Maryland",
+          "Google",
+          "University College London",
+          "Google",
+          "Google",
+          "google",
+          "Google",
+          "Google",
+          "Google",
+          "University of Maryland ",
+          "Google Research",
+          "Google"
+        ],
+        "country": [
+          "United States",
+          "United Kingdom",
+          "Canada",
+          "Switzerland"
+        ],
+        "url": "",
+        "title": "Sensible Agent: A Framework for Unobtrusive Interaction with Proactive AR Agents"
+      },
+      {
+        "author": [
+          "Tinghui Li",
+          "Eduardo Velloso",
+          "Anusha Withana",
+          "Zhanna Sarsenbayeva"
+        ],
+        "institution": [
+          "University of Sydney",
+          "University of Sydney",
+          "The University of Sydney",
+          "University of Sydney"
+        ],
+        "country": [
+          "Australia"
+        ],
+        "url": "",
+        "title": "Weight-Induced Consumed Endurance (WICE): A Model to Quantify Shoulder Fatigue with Weighted Objects"
+      },
+      {
+        "author": [
+          "Praneeth Perera",
+          "Ravindu Pushpakumara",
+          "Hiroyuki Kajimoto",
+          "Arata Jingu",
+          "Jürgen Steimle",
+          "Anusha Withana"
+        ],
+        "institution": [
+          "The University of Sydney",
+          "The University of Sydney",
+          "The University of Electro-Communication",
+          "Saarland Informatics Campus",
+          "Saarland University, Saarland Informatics Campus",
+          "The University of Sydney"
+        ],
+        "country": [
+          "Australia",
+          "Japan",
+          "Germany"
+        ],
+        "url": "",
+        "title": "eTactileKit: A Toolkit for Design Exploration and Rapid Prototyping of Electro-Tactile Interfaces"
+      },
+      {
+        "author": [
+          "Yifei Zhang",
+          "Lin-Ping Yuan",
+          "Yuheng Zhao",
+          "Jielin Feng",
+          "Siming Chen"
+        ],
+        "institution": [
+          "Fudan University",
+          "The Hong Kong University of Science and Technology",
+          "Fudan Univerisity",
+          "School of Data Science, Fudan University",
+          "Fudan University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "KinemaFX: A Kinematic-Driven Interactive System for Particle Effect Exploration and Customization"
+      },
+      {
+        "author": [
+          "Wen-Fan Wang",
+          "Ting-Ying Lee",
+          "Chien-Ting Lu",
+          "Che-Wei Hsu",
+          "Nil Ponsa i Campanyà",
+          "Yu Chen",
+          "Mike Chen",
+          "Bing-Yu Chen"
+        ],
+        "institution": [
+          "National Taiwan University",
+          "National Taiwan University",
+          "National Taiwan University",
+          "National Taiwan University",
+          "National Taiwan University",
+          "National Taiwan University",
+          "National Taiwan University",
+          "National Taiwan University"
+        ],
+        "country": [
+          "Taiwan"
+        ],
+        "url": "",
+        "title": "GenTune: Toward Traceable Prompts to Improve Controllability of Image Refinement in Environment Design"
+      },
+      {
+        "author": [
+          "Nicolai Marquardt",
+          "Asta Roseway",
+          "Hugo Romat",
+          "Payod Panda",
+          "Michel Pahud",
+          "Gonzalo Ramos",
+          "Steven Drucker",
+          "Andrew Wilson",
+          "Ken Hinckley",
+          "Nathalie Riche"
+        ],
+        "institution": [
+          "Microsoft Research",
+          "Microsoft Research",
+          "Microsoft Research",
+          "Microsoft Research",
+          "Microsoft Research",
+          "Microsoft Research",
+          "Microsoft Research",
+          "Microsoft Research",
+          "Microsoft Research (Emeritus)",
+          "Microsoft Research"
+        ],
+        "country": [
+          "United States",
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "ImaginationVellum: Generative-AI Ideation Canvas with Spatial Prompts, Generative Strokes, and Ideation History"
+      },
+      {
+        "author": [
+          "Shuto Takashita",
+          "Jürgen Steimle",
+          "Masahiko Inami"
+        ],
+        "institution": [
+          "University of Tokyo",
+          "Saarland University, Saarland Informatics Campus",
+          "University of Tokyo"
+        ],
+        "country": [
+          "Japan",
+          "Germany"
+        ],
+        "url": "",
+        "title": "Imaginary Joint: Proprioceptive Feedback for Virtual Body Extensions via Skin Stretch"
+      },
+      {
+        "author": [
+          "Tian Min",
+          "Yuma Tsukakoshi",
+          "Chengshuo Xia",
+          "Anusha Withana",
+          "Yuta Sugiura"
+        ],
+        "institution": [
+          "Keio University",
+          "Keio University",
+          "Xidian University ",
+          "The University of Sydney",
+          "Keio University"
+        ],
+        "country": [
+          "Japan",
+          "China",
+          "Australia"
+        ],
+        "url": "",
+        "title": "SoilSense: Appropriating Soil-based Microbial Fuel Cells to Create Tangible Interfaces"
+      },
+      {
+        "author": [
+          "Yihong Wu",
+          "Xiao Xie",
+          "Lingyun Yu",
+          "Xinyi Ruan",
+          "Runzhou Li",
+          "Liqi Cheng",
+          "Shuainan Ye",
+          "Dazhen Deng",
+          "Hui Zhang",
+          "Yingcai Wu"
+        ],
+        "institution": [
+          "Zhejiang University",
+          "Zhejiang University",
+          "Xi'an Jiaotong-Liverpool University",
+          "Tsinghua University",
+          "the State Key Lab of CAD&CG",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University",
+          "Zhejiang University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "From Sports Videos to Immersive Training: Augmenting Human Motion to Enrich Basketball Training Experience"
+      },
+      {
+        "author": [
+          "Dohyeon Yeo",
+          "Gwangbin Kim",
+          "Minwoo Oh",
+          "Jeongju Park",
+          "Bocheon Gim",
+          "Seongjun Kang",
+          "Ahmed Elsharkawy",
+          "SeungJun Kim"
+        ],
+        "institution": [
+          "Gwangju Institute of Science and Technology",
+          "Gwangju Institute of Science and Technology",
+          "Gwangju Institute of Science and Technology",
+          "Gwangju Institute of Science and Technology",
+          "Gwangju Institute of Science and Technology",
+          "Gwangju Institute of Science and Technology",
+          "Gwangju Institute of Science and Technology",
+          "Gwangju Institute of Science and Technology"
+        ],
+        "country": [
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "AttraCar: Multisensory In-Car VR with Thermal, Airflow, and Motion Feedback through Built-In Vehicle Systems"
+      },
+      {
+        "author": [
+          "Chenyang Zhang",
+          "Tiffany Ma",
+          "John Andrews",
+          "Eric Gonzalez",
+          "Mar Gonzalez-Franco",
+          "Yalong Yang"
+        ],
+        "institution": [
+          "Georgia Institute of Technology",
+          "Georgia Institute of Technology",
+          "Georgia Institute of Technology",
+          "Google",
+          "Google",
+          "Georgia Institute of Technology"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "ForcePinch: Force-Responsive Spatial Interaction for Tracking Speed Control in XR"
+      },
+      {
+        "author": [
+          "Richard Noeske",
+          "Ayush Bhardwaj",
+          "Abbas Khawaja",
+          "Jin Ryong Kim"
+        ],
+        "institution": [
+          "The University of Texas at Dallas",
+          "The University of Texas at Dallas",
+          "University of Texas at Dallas",
+          "University of Texas at Dallas"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "UltraEdit: In-Situ Design Environment for Ultrasound Haptization"
+      },
+      {
+        "author": [
+          "Joshua Horowitz",
+          "Devamardeep Hayatpur",
+          "Haijun Xia",
+          "Jeffrey Heer"
+        ],
+        "institution": [
+          "University of Washington",
+          "University of California, San Diego",
+          "University of California, San Diego",
+          "University of Washington"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Sculpin: Direct-Manipulation Transformation of JSON"
+      },
+      {
+        "author": [
+          "Theia Henderson",
+          "David Karger",
+          "David Clark"
+        ],
+        "institution": [
+          "MIT",
+          "MIT",
+          "MIT"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Graffiti: Enabling an Ecosystem of Personalized and Interoperable Social Applications"
+      },
+      {
+        "author": [
+          "David Wagmann",
+          "Marie Muehlhaus",
+          "Jürgen Steimle"
+        ],
+        "institution": [
+          "Saarland Informatics Campus",
+          "Saarland Informatics Campus",
+          "Saarland University, Saarland Informatics Campus"
+        ],
+        "country": [
+          "Germany"
+        ],
+        "url": "",
+        "title": "Move with Style! Enhancing Avatar Embodiment in Virtual Reality through Proprioceptive Motion Feedback"
+      },
+      {
+        "author": [
+          "Jonas Wombacher",
+          "Zhipeng Li",
+          "Jan Gugenheimer"
+        ],
+        "institution": [
+          "Technical University of Darmstadt",
+          "ETH Zürich",
+          "TU-Darmstadt"
+        ],
+        "country": [
+          "Germany",
+          "Switzerland"
+        ],
+        "url": "",
+        "title": "SwitchAR: Perceptual Manipulations in Augmented Reality"
+      },
+      {
+        "author": [
+          "Yao Song",
+          "Christoph Gebhardt",
+          "Yi-Chi Liao",
+          "Christian Holz"
+        ],
+        "institution": [
+          "ETH Zurich",
+          "OST - Eastern Switzerland University of Applied Science",
+          "ETH Zürich",
+          "ETH Zürich"
+        ],
+        "country": [
+          "Switzerland"
+        ],
+        "url": "",
+        "title": "Preference-Guided Multi-Objective UI Adaptation"
+      },
+      {
+        "author": [
+          "Wenshuo ZHANG",
+          "Leixian Shen",
+          "Shuchang Xu",
+          "Jindu Wang",
+          "Jian Zhao",
+          "Huamin Qu",
+          "Lin-Ping Yuan"
+        ],
+        "institution": [
+          "Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology",
+          "the Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology",
+          "University of Waterloo",
+          "The Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology"
+        ],
+        "country": [
+          "China",
+          "Canada"
+        ],
+        "url": "",
+        "title": "NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification"
+      },
+      {
+        "author": [
+          "Hamza El Alaoui",
+          "Atieh Taheri",
+          "Yi-Hao Peng",
+          "Jeffrey Bigham"
+        ],
+        "institution": [
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University",
+          "Carnegie Mellon University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "StepWrite: Adaptive Planning for Speech-Driven Text Generation"
+      },
+      {
+        "author": [
+          "Yaxin Hu",
+          "Arissa J. Sato",
+          "Jingxin Du",
+          "Chenming Ye",
+          "Anjun Zhu",
+          "Pragathi Praveena",
+          "Bilge Mutlu"
+        ],
+        "institution": [
+          "University of Wisconsin-Madison",
+          "University of Wisconsin-Madison",
+          "University of Wisconsin-Madison",
+          "University of Wisconsin-Madison",
+          "University of Wisconsin Madison",
+          "Carnegie Mellon University",
+          "University of Wisconsin-Madison"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "NarraGuide: an LLM-based Narrative Mobile Robot for Remote Place Exploration"
+      },
+      {
+        "author": [
+          "Max Rädler",
+          "Mark Colley",
+          "Enrico Rukzio"
+        ],
+        "institution": [
+          "Ulm University",
+          "UCL Interaction Centre",
+          "University of Ulm"
+        ],
+        "country": [
+          "Germany",
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "VIP-Sim: A User-Centered Approach to Vision Impairment Simulation for Accessible Design"
+      },
+      {
+        "author": [
+          "Donghoon Shin",
+          "Daniel Lee",
+          "Gary Hsieh",
+          "Gromit Yeuk-Yin Chan"
+        ],
+        "institution": [
+          "University of Washington",
+          "Adobe Inc.",
+          "University of Washington",
+          "Adobe Research"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "PosterMate: Audience-driven Collaborative Persona Agents for Poster Design"
+      },
+      {
+        "author": [
+          "Eric Chen",
+          "Joshua Yang",
+          "Jeff Huang",
+          "Tongyu Zhou"
+        ],
+        "institution": [
+          "Brown University",
+          "Brown University",
+          "Brown University",
+          "Brown University"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "L.ink: Procedural Ink Growth for Controllable Surprise"
+      },
+      {
+        "author": [
+          "Zeyuan Huang",
+          "Cangjun Gao",
+          "Yaxian Shan",
+          "Haoxiang Hu",
+          "Qingkun Li",
+          "Xiaoming Deng",
+          "Cuixia Ma",
+          "Yu-Kun Lai",
+          "Yong-Jin Liu",
+          "Feng Tian",
+          "Guozhong Dai",
+          "Hongan Wang"
+        ],
+        "institution": [
+          "Institute of Software, Chinese Academy of Sciences",
+          "Institute of Software, Chinese Academy of Sciences",
+          "Institute of Software, Chinese Academy of Sciences",
+          "Institute of Software, Chinese Academy of Sciences",
+          "Institute of Software",
+          "Institute of Software, Chinese Academy of Sciences",
+          "Institute of Software, Chinese Academy of Sciences",
+          "Cardiff University",
+          "Tsinghua University",
+          "Institute of software, Chinese Academy of Sciences",
+          "Chinese Academy of Sciences",
+          "Institute of Software, Chinese Academy of Sciences"
+        ],
+        "country": [
+          "China",
+          "United Kingdom"
+        ],
+        "url": "",
+        "title": "SketchGPT: A Sketch-based Multimodal Interface for Application-Agnostic LLM Interaction"
+      },
+      {
+        "author": [
+          "Tianyu Yu",
+          "Peisheng He",
+          "Bob Tianqi Wei",
+          "Chenyuheng Wang",
+          "Xueqing Li",
+          "Xuezhu Wang",
+          "Yao Lu",
+          "Wei Yue",
+          "Megan Teng",
+          "Zihan Wang",
+          "Liwei Lin",
+          "Haipeng Mi",
+          "Qi Lu",
+          "Lining Yao"
+        ],
+        "institution": [
+          "UC Berkeley",
+          "UC Berkeley",
+          "UC Berkeley",
+          "Tsinghua University",
+          "Tsinghua university",
+          "Tsinghua University",
+          "Tsinghua University",
+          "UC Berkeley",
+          "UC Berkeley",
+          "University of California Berkeley ",
+          "UC Berkeley",
+          "Tsinghua University",
+          "Tsinghua University",
+          "University of California, Berkeley"
+        ],
+        "country": [
+          "United States",
+          "China"
+        ],
+        "url": "",
+        "title": "MorphingSkin: A Skin-like Platform that Integrates Multimodal Hydraulic Actuators Based on Flexible Electroosmotic Pumps"
+      },
+      {
+        "author": [
+          "Zixin Chen",
+          "Jiachen Wang",
+          "Yumeng Li",
+          "Haobo Li",
+          "Chuhan Shi",
+          "Rong Zhang",
+          "Huamin Qu"
+        ],
+        "institution": [
+          "The Hong Kong University of Science and Technology",
+          "Zhejiang University",
+          "The University of Hong Kong",
+          "The Hong Kong University of Science and Technology",
+          "Southeast University",
+          "Hong Kong University of Science and Technology",
+          "The Hong Kong University of Science and Technology"
+        ],
+        "country": [
+          "China",
+          "Hong Kong"
+        ],
+        "url": "",
+        "title": "CoGrader: Transforming Instructors' Assessment of Project Reports through Collaborative LLM Integration"
+      },
+      {
+        "author": [
+          "Shaohan Shi",
+          "Yuheng Shao",
+          "Haoran Jiang",
+          "Yunjie Yao",
+          "Zhijun Zhang",
+          "Xu Ding",
+          "Quan Li"
+        ],
+        "institution": [
+          "ShanghaiTech University",
+          "ShanghaiTech University",
+          "ShanghaiTech University",
+          "ShanghaiTech University",
+          "Shuguang Hospital Affiliated to Shanghai University of Chinese Traditional Medicine",
+          "Shuguang Hospital Affiliated to Shanghai University of Chinese Traditional Medicine",
+          "ShanghaiTech University"
+        ],
+        "country": [
+          "China"
+        ],
+        "url": "",
+        "title": "MEDebiaser: A Human-AI Feedback System for Mitigating Bias in Multi-label Medical Image Classification"
+      },
+      {
+        "author": [
+          "Chaoran Chen",
+          "Leyang Li",
+          "Luke Cao",
+          "Yanfang Ye",
+          "Tianshi Li",
+          "Yaxing Yao",
+          "Toby Li"
+        ],
+        "institution": [
+          "University of Notre Dame",
+          "University of Notre Dame",
+          "University of Notre Dame",
+          "University of Notre Dame",
+          "Northeastern University",
+          "Virginia Tech",
+          "University of Notre Dame"
+        ],
+        "country": [
+          "United States"
+        ],
+        "url": "",
+        "title": "Why am I seeing this: Democratizing End User Auditing for Online Content Recommendations"
+      },
+      {
+        "author": [
+          "Hui-Jun Kim",
+          "Jeongho Kim",
+          "SOHYUN JEONG",
+          "MINBONG LEE",
+          "Jaegul Choo",
+          "Sung-Hee Kim"
+        ],
+        "institution": [
+          "IT Convergence at Dong-eui University",
+          "KAIST",
+          "Korea Advanced Institute of Science & Technology",
+          "kristincompany",
+          "KAIST",
+          "Dong-eui University"
+        ],
+        "country": [
+          "Korea, Republic of"
+        ],
+        "url": "",
+        "title": "ShoeGenAI: A Creativity Support Tool Bridging Design Intention and Feasibility in Shoe Design"
+      }
+    ]
   }
 ]
